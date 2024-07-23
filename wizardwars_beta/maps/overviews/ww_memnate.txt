@@ -1,0 +1,14 @@
+// overview description file for ww_memnate.bsp
+
+global 
+{
+	ZOOM	1.03
+	ORIGIN	0 	320	-1314
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"maps/overviews/ww_memnate.tga"
+	HEIGHT	-1314
+}

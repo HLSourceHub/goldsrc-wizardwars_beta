@@ -1,0 +1,20 @@
+STATS
+Max Health: 80
+Max Armor: 80
+Max Speed: Very Fast
+
+SPELLS
+Wind Staff, Mana Bolt, Armor Spell, Updraft, Wind Riding 
+
+SATCHEL
+Cyclone Satchel - Lifts enemy high up in air for 5 seconds.   
+
+SPECIAL ABILITY
+None
+
+MAGIC SEAL 
+Blasts allies up at 800 velocity 
+Blasts enemies away at 800 velocity 
+
+COMBOS
+Tornado (with Geomancer), Spirit of the Dragon (with Dragoner)

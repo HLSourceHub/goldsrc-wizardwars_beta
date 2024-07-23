@@ -1,0 +1,25 @@
+DeGlove's WW_December waypoints for Codiac's HPB Port
+
+v 1.0 Tested and working. Bots will cap and navigate.
+If you find any problems let me know on the forums.
+http://www.planethalflife.com/wizardwars/
+
+Done: 
+-Team only waypointing in spawn
+-Partial one way system around bases (bots are forced to grab the grail if it is there instead of running out the bottom and leaving it)
+-Team only access to sniper nests
+-Spellbooks waypointed
+-Area on top of the main door waypointed
+-All outside areas waypointed
+
+Might need improvement
+-Haven;t yet seen a bot climb the rope up to the top (need to move jump waypoint at base of ladder, or create jump and crouch)- would fall off the top and die anyway.
+-Possibly re-do autowaypointed sections to speed bot movement
+-Breakable detection, depending on how Codiac implements it
+-Might re-do spawn rooms so the shelf is waypointed
+
+Bugs solved:
+-Bots getting stuck at the top of the stairs in another team's spawn
+-Red team not being connected
+-Red team not having one-way system
+-Door not waypointed properly

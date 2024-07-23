@@ -1,0 +1,1069 @@
+// Wizard Wars 1.2.9 
+// Localization Titles
+
+// --- Classes -----------------------------------------------------------------
+Random
+{
+Random Wizard
+}
+
+Life
+{
+Cleric
+}
+
+Fire
+{
+Pyromancer
+}
+
+Ice
+{
+Frostmage
+}
+
+Nature
+{
+Sylvanist
+}
+
+Dragon
+{
+Dragoner
+}
+
+Lightning
+{
+Tempest
+}
+
+Death
+{
+Necromancer
+}
+
+Earth
+{
+Geomancer
+}
+
+Wind
+{
+Zephyrist
+}
+
+Archmage
+{
+Archmage
+}
+
+Unassigned
+{
+Observer
+}
+
+Observer
+{
+Observer
+}
+
+
+// --- Respawn As Messages -----------------------------------------------------
+
+RespawnAs
+{
+Even I am not sure what you will be next!
+}
+
+RespawnAsWind
+{
+You will return as an Zephyrist.
+}
+
+RespawnAsLightning
+{
+You will return as a Tempest.
+}
+
+RespawnAsDragon
+{
+You will return as a Draconer.
+}
+
+RespawnAsDeath
+{
+You will return as a Necromancer.
+}
+
+RespawnAsLife
+{
+You will return as a Cleric.
+}
+
+RespawnAsFire
+{
+You will return as a Pyromancer.
+}
+
+RespawnAsEarth
+{
+You will return as a Geomancer.
+}
+
+RespawnAsIce
+{
+You will return as a Frostmage.
+}
+
+RespawnAsNature
+{
+You will return as a Sylvanist.
+}
+
+RespawnAsArchmage
+{
+You will return as an Archmage.
+}
+
+
+// --- Weapons -----------------------------------------------------------------
+ww_staff
+{
+Staff
+}
+
+ww_spell_shield
+{
+Armor Spell
+}
+
+ww_spell_seal
+{
+Seal Summon
+}
+
+ww_spell_missile
+{
+Mana Bolt
+}
+
+ww_spell_doublemissile
+{
+Double Mana Bolt
+}
+
+ww_spell_updraft
+{
+Updraft
+}
+
+ww_spell_levitate
+{
+Wind Riding
+}
+
+ww_spell_lightningbolt
+{
+Lightning Zap
+}
+
+ww_spell_spotbolt
+{
+Spot Bolt
+}
+
+ww_spell_flamelick
+{
+Conflagration
+}
+
+ww_spell_fireball
+{
+Fireball
+}
+
+ww_spell_deathray
+{
+Drain Rayspell
+}
+
+ww_spell_skull
+{
+Seeking Skull
+}
+
+ww_spell_whiteray
+{
+Life Rayspell
+}
+
+ww_spell_forceblast
+{
+Repel
+}
+
+ww_spell_pebbleblast
+{
+Pebble Blast
+}
+
+ww_spell_stone
+{
+Stone Summon
+}
+
+ww_spell_bird
+{
+Art of Falconry
+}
+
+ww_bearbite
+{
+Bear Maul
+}
+
+ww_spell_dragonbreath
+{
+Dragon Breath
+}
+
+ww_spell_wyvern
+{
+Beckon Drake
+}
+
+ww_spell_iceshard
+{
+Ice Shard
+}
+
+ww_spell_freezeray
+{
+Freeze Rayspell
+}
+
+ww_spell_thornblast
+{
+Thorn Blast
+}
+
+ww_spell_beanstalk
+{
+Beanstalk
+}
+
+
+// --- Messages ----------------------------------------------------------------
+
+HealthTooHigh
+{
+Your health is too high!
+}
+
+LowOnMagic
+{
+Not enough magic!
+}
+
+OutOfRoom
+{
+Out of room!
+}
+
+CantBuildHere
+{
+You Can't Build Here!
+}
+
+SealNew
+{
+Casting a new Magic Seal
+}
+
+SealOwn
+{
+Recharging your Magic Seal
+}
+
+SealUsed
+{
+Recharging friendly Magic Seal
+}
+
+SealReady
+{
+Magic Seal is ready
+}
+
+SealMove
+{
+You have moved your Magic Seal!
+}
+
+BeanstalkSpell_AlreadyHaveOne
+{
+You can only grow one
+beanstalk at a time!
+}
+
+NoThornplantsInDM
+{
+No thornplants in Deathmatch!
+}
+
+NotOnGround
+{
+You're not on the ground!
+}
+
+OutOfLives
+{
+You are out of lives!
+}
+
+RoundOver
+{
+Round over, game restarts!
+}
+
+Ice_DisguiseWithItem
+{
+You can't disguise with an item!
+}
+
+Ice_NoEnemySeen
+{
+You need to have seen an enemy 
+to disguise as!
+}
+
+Nature_MoreThornplants
+{
+You can only have two 
+thornplants alive at a time!
+}
+
+Nature_NeedStaff
+{
+You need your staff!
+}
+
+Nature_NotCloseEnough
+{
+You are not close enough!
+}
+
+Nature_BushKilled
+{
+One of your thornplants has died!
+}
+
+Nature_StalkKilled
+{
+Your beanstalk has died!
+}
+
+Nature_HaveStage3
+{
+You can only have one 
+stage 3 Thornplant active!
+}
+
+Nature_2Plantsfertilize
+{
+Owner already has 2 Thornplants active!
+}
+
+GoodThornplant
+{
+You killed a teammate's thornplant!
+}
+
+Death_DrawEnergy
+{
+You absorb the remaining energy.
+}
+
+Death_NoBody
+{
+There is no corpse here!
+}
+
+Earth_BearSatchels
+{
+You can't throw satchels as a bear!
+}
+
+Earth_AmmoAsBear
+{
+You can't drop mana as a bear!
+}
+
+Earth_SaveAsBear
+{
+You can't call for help as a bear!
+}
+
+// --- VGUI Text ---------------------------------------------------------------
+
+TEAMS
+{
+Teams
+}
+
+PLAYERS
+{
+Wizards
+}
+
+CLASS
+{
+Class
+}
+
+SCORE
+{
+Score
+}
+
+DEATHS
+{
+Deaths
+}
+
+LATENCY
+{
+Latency
+}
+
+Menu_OK
+{
+OK
+}
+
+Menu_Spectate
+{
+SPECTATE
+}
+
+Menu_Cancel
+{
+Cancel
+}
+
+Player
+{
+player
+}
+
+Player_plural
+{
+players
+}
+
+Muted
+{
+You have muted %s.
+}
+
+Unmuted
+{
+You have unmuted %s.
+}
+
+No_longer_hear_that_player
+{
+You will no longer hear that player speak.
+}
+
+Mic_Volume
+{
+Mic Volume
+}
+
+Speaker_Volume
+{
+Speaker Volume
+}
+
+Title_SelectYourClass
+{
+Choose your Wizard
+}
+
+Title_SelectYourTeam
+{
+Choose your Team
+}
+
+Title_CurrentlyOnYourTeam
+{
+%d on your team.
+}
+
+Team_AutoAssign
+{
+Autoteam
+}
+
+// --- Spectator Messages ------------------------------------------------------
+
+Spec_Mode_Inset0
+{
+Inset Window Off
+}
+
+Spec_Mode_Inset1
+{
+Inset Chase-Camera Mode
+}
+
+Spec_Mode_Inset2
+{
+Inset First Person Mode
+}
+
+Spec_Mode_Inset3
+{
+Inset Map Mode
+}
+
+// Spectator Menu
+Spec_Mode1
+{
+Locked Chase-Camera
+}
+
+Spec_Mode2
+{
+Free Chase-Camera
+}
+
+Spec_Mode3
+{
+Free-Look
+}
+
+Spec_Mode4
+{
+First Person
+}
+
+Spec_Mode5
+{
+Free Map Overview
+}
+
+Spec_Mode6
+{
+Chase Map Overview
+}
+
+Spec_NoTarget
+{
+No valid targets. Cannot switch to Chase-Camera Mode.
+}
+
+Spec_Help
+{
+ENTER to Play  FIRE for Next Target  ALT-FIRE for Prev Target  JUMP to Change Modes
+}
+
+Spec_Help_Title
+{
+Spectator Mode
+}
+
+Spec_Help_Text
+{
+Use the following keys to change view styles:
+
+ FIRE1 - Chase next player
+ FIRE2 - Chase previous player
+ JUMP - Change view modes
+ USE - Change inset window mode
+ 
+ DUCK  - Enable spectator menu
+  
+In Overview Map Mode move around with:
+
+ MOVELEFT - move left
+ MOVERIGHT - move right
+ FORWARD - zoom in
+ BACK - zoom out
+ MOUSE - rotate around map/target
+}
+
+Spec_Slow_Motion
+{
+Slow Motion
+}
+
+Spec_Replay
+{
+Instant Replay
+}
+
+Spec_Auto
+{
+Auto
+}
+
+Spec_Time
+{
+Time
+}
+
+Spec_Map
+{
+Map
+}
+
+Spectators
+{
+Spectators
+}
+
+
+OBS_NONE
+{
+Camera Options
+}
+
+OBS_CHASE_LOCKED
+{
+Locked Chase-Cam
+}
+
+OBS_CHASE_FREE
+{
+Free Chase-Cam
+}
+
+OBS_ROAMING
+{
+Roaming
+}
+
+OBS_IN_EYE
+{
+First Person
+}
+
+OBS_MAP_FREE
+{
+Free Overview
+}
+
+OBS_MAP_CHASE
+{
+Chase-Cam Overview
+}
+
+SPECT_OPTIONS
+{
+Options
+}
+
+CAM_OPTIONS
+{
+Camera Options
+}
+
+Spec_Duck
+{
+Press DUCK for Spectator Menu
+}
+
+// --- Seal Enchant Messages ---------------------------------------------------
+
+$position -1 0.1
+$effect    0
+$color   255 255 255
+$color2  100   0 100
+$fadein    1
+$holdtime  4
+$fadeout   1
+
+DeathSeal
+{
+You feel a cold shiver down your spine
+The souls of the dead are protecting you for a short while.
+}
+
+DragonSeal
+{
+Your skin mutates in a dragon-like hide
+This gives you added resistance for a short while.
+}
+
+EarthSeal
+{
+Your armor feels stronger.
+The damage has been reinforced with stone.
+}
+
+FireSeal
+{
+The sun against your skin feels cooler
+You seem to be immune to fire for a short while.
+}
+
+IceSeal
+{
+You feel a cold liquid move across your entire body
+It seems to be refracting the light...
+}
+
+LifeSeal
+{
+You notice that your wounds no longer hurt as much
+You feel much better now!
+}
+
+LightningSeal
+{
+The hair on the back of your neck stands up
+It seems your attacks have much more power for a short while.
+}
+
+NatureSeal
+{
+A gentle light surrounds you
+It seems you have more mana than before.
+}
+
+WindSeal
+{
+You feel a gust of wind from beneath you
+You had better watch where you land!
+}
+
+
+//------------------------------------------------------------------------------
+// MAPS
+//------------------------------------------------------------------------------
+
+$position -1 0.7
+$effect    0
+$color   255 255 200
+$color2  100   0 100
+$fadein    1
+$holdtime  3
+$fadeout   1
+
+// --- 2fort -------------------------------------------------------------------
+
+2fort_you_capped_flag
+{
+You captured the ENEMY grail!
+}
+
+2fort_your_team_capped
+{
+Your team captured the ENEMY grail!
+}
+
+2fort_your_flag_capped
+{
+YOUR grail was CAPTURED!
+}
+
+2fort_your_flag_returned
+{
+Your grail was RETURNED!!
+}
+
+2fort_enemy_flag_returned
+{
+The ENEMY grail was RETURNED!
+}
+
+2fort_got_enemy_flag
+{
+%s GOT the ENEMY grail!
+}
+
+2fort_team_takes_enemy_flag
+{
+Your team has TAKEN the ENEMY grail!
+}
+
+2fort_enemy_takes_flag
+{
+%s has TAKEN your grail!
+}
+
+2fort_your_flag_taken
+{
+Your grail was taken!
+}
+
+2fort_you_take_enemy_flag
+{
+You have the ENEMY grail!
+Take it to your capture point!
+}
+
+2fort_enemy_lost_flag
+{
+The ENEMY lost your grail!
+}
+
+2fort_lost_red_flag
+{
+%s LOST the RED grail!
+}
+
+2fort_lost_blue_flag
+{
+%s LOST the BLUE grail!
+}
+
+2fort_lost_enemy_flag
+{
+Your team lost the ENEMY grail!
+}
+
+2fort_elevator
+{
+This doesn't work for your team!
+}
+
+2fort_door
+{
+This doesn't work for your team!
+}
+
+2fort_flag_in_base
+{
+Your flag is in your fort.
+}
+
+2fort_enemy_flag_in_base
+{
+The enemy flag in in their fort.
+}
+
+2fort_flag_carried
+{
+Your flag is being carried.
+}
+
+2fort_enemy_flag_carried
+{
+The enemies flag is being carried.
+}
+
+2fort_flag_loose
+{
+Your flag is lying around.
+}
+
+2fort_enemy_flag_loose
+{
+The enemies flag is lying around.
+}
+
+// --- checkmate ---------------------------------------------------------------
+
+check_rescue_king
+{
+You have rescued your king!
+}
+
+check_king_loose
+{
+Your king is lying around.
+}
+
+check_enemy_king_loose
+{
+The enemy king is lying around.
+}
+
+check_lost_king
+{
+Your team has lost your king!
+}
+
+check_enemy_lost_king
+{
+The enemy lost their king!
+}
+
+check_king_in_base
+{
+Your king is in their castle.
+}
+
+check_enemy_king_in_base
+{
+The enemy king is in your castle.
+}
+
+check_king_carried
+{
+Your king is being carried.
+}
+
+check_enemy_king_carried
+{
+The enemy king is being carried.
+}
+
+// --- hunted ---------------------------------------------------------------
+
+hunted_target_killed
+{
+The Archmage has been killed!
+}
+
+hunted_target_scores
+{
+The Archmage has made it to safety!
+}
+
+hunted_target_welcome
+{
+You must escape!
+}
+
+hunted_bodyguard_welcome
+{
+Protect the Archmage!
+}
+
+hunted_assassin_welcome
+{
+Destroy the Archmage!
+}
+
+// --- combo messages ---------------------------------------------------------------
+
+COMBO
+{
+Combo Result
+}
+
+CombosOff
+{
+Combos are turned off
+}
+
+Have_BallLightningSpell
+{
+You have the Ball Lightning Spell!
+}
+
+Have_CometSpell
+{
+You have the Comet Spell!
+}
+
+Have_GiantPlantSpell
+{
+You have a Giant Plant!
+}
+
+Have_LightningCloudSpell
+{
+You have the Lightning Cloud Spell!
+}
+
+Have_MeteorSpell
+{
+You have the Meteor Spell!
+}
+
+Have_SpiritWizSpell
+{
+You have the Spirit Wizard Spell!
+}
+
+Have_SkeletonSpell
+{
+You have the Living Dead Spell!
+}
+
+Have_TornadoSpell
+{
+You have the Tornado Spell!
+}
+
+Have_WombatSpell
+{
+You have Wally the Wombat!
+}
+
+Have_DragonSpell
+{
+You have the Spirit of the Dragon!
+}
+
+DeathWiz_NoBody
+{
+There is no body here to revive!
+}
+
+SkeletonSpell_TooClose
+{
+Not enough room to summon!
+}
+
+SkeletonSpell_LostSkeleton
+{
+One of your skeletons has been destroyed!
+}
+
+GiantPlantSpell_LostPlant
+{
+You lost your Giant Plant!
+}
+
+// --- combo weapons ---------------------------------------------------------------
+
+weapon_tornadospell
+{
+Tornado
+}
+
+weapon_dragonspell
+{
+Spirit of the Dragon
+}
+
+weapon_balllightningspell
+{
+Ball Lightning
+}
+
+weapon_lightningcloudspell
+{
+Lightning Cloud
+}
+
+weapon_meteorspell
+{
+Meteor
+}
+
+weapon_skeletonspell
+{
+Raise Dead
+}
+
+weapon_wombatspell
+{
+Wally the Wombat
+}
+
+weapon_spiritwizspell
+{
+Summon Spirit
+}
+
+weapon_giantplantspell
+{
+Giant Plant
+}

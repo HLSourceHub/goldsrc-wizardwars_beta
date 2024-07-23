@@ -1,0 +1,34 @@
+Tempest - Bringer of the Thunderous Storm, the Tempest commands the power of maelstroms, thunderheads, squalls, and hurricanes, though the power most fear is that of lightning. In a battle versus Magi, the Tempest needs focus on lightning, and while not as simplistic in use as a fireball or landslide, any contesting the strike of a well-placed bolt often are found, struck down.
+---------------
+STATS
+Max Health: 90
+Max Armor: 90 Medium Armor
+Max Speed: Medium
+
+SPELLS
+Trident Staff, Spot bolt, Armor Spell, Lightning Zap
+
+SATCHEL
+Lightning satchel - Does 115-345 shock damage 
+
+SPECIAL ABILITY
+Far sight (zoom ability)
+
+MAGIC SEAL 
+Gives superdamage for 10 seconds to allies. 
+Does 200 shock damage to nearby enemies, 40% chance of missing
+
+COMBOS
+Ball Lightning (with Pyromancer) – A powerful burst of lightning thaty will swiftly strike down your foes.
+Lightning Cloud (with Frostmage) – Creates a thundercloud that will shock enemies it meets as it moves away from you.
+
+TIPS:
+Become one with the spot bolt spell.
+The spot bolt takes a bit to master. The trick to using it is to learn to aim effectively. When you press and hold your "Fire" button, you begin to aim. Your electric charge will begin to sound and a yellow dot will appear where you're aiming. When you release the "Fire" button, a lighting bolt will appear from the heavens and strike where the dot was. The longer you hold down the "Fire" button, the more damage the shot does. If you aim for a full 2 to 3 seconds before you fire the shot, you'll kill almost any class in a single hit. If the enemy is a fair distance away, use your farsight ability by pressing your "Use Special Skill" key (right mouse button by default). Careful, though.. If you charge too long, you will "overload" and electrocute yourself!
+
+Hide your yellow dot.
+It's a good idea to start aiming before you see your enemies so that you can build up a bit of electric charge before you fire at them. Since your yellow dot is visible to everyone, learn to hide it in places where your enemies can't see it. 
+
+Avoid letting enemies get close.
+You're fairly weak when it comes to close combat, so don't let your enemies reach you. Find a position where they can't get to you easily. If they do get near you, don't try to kill them with the spotbolt. Change to your lighting zap shoot them down. You can try lobbing some satchels at them to keep them away too. 
+

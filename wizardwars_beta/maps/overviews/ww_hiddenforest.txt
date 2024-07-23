@@ -1,0 +1,14 @@
+// overview description file for ww_hiddenforest.bsp
+
+global 
+{
+	ZOOM		1.85
+	ORIGIN		1180.00 	158.00 	-239.75
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/ww_hiddenforest.tga"
+	HEIGHT	-239.75
+}

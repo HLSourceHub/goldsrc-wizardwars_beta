@@ -1,0 +1,14 @@
+// overview description file for ww_wolteg.bsp
+
+global 
+{
+	ZOOM	1.58
+	ORIGIN	-256	1376	-800
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"maps/overviews/ww_wolteg.tga"
+	HEIGHT	-800
+}

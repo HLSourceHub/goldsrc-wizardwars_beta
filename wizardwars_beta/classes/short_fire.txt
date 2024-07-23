@@ -1,0 +1,21 @@
+STATS
+Max Health: 100
+Max Armor: 150
+Max Speed: Low - Medium 
+
+SPELLS
+Pyro Staff, Mana Bolt, Armor Spell, Conflagration, Fireball
+
+SATCHEL
+Pyro Satchel – Spinning tongues of flame do 75-750 fire damage 
+
+SPECIAL ABILITY
+Reality Fissure – All nearby enemies will be slain as you bend reality to your will. This powerful ability needs a second or two to manifest itself and 100 mana.
+
+MAGIC SEAL 
+Gives allies invulnerability to fire damage for 30 seconds 
+Does 100 fire damage to enemies nearby 
+
+COMBOS
+Ball Lightning (with Voltamancer), Meteor (with Necromancer). 
+

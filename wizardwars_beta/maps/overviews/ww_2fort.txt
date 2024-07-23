@@ -1,0 +1,14 @@
+// overview description file for ww_2fort.bsp
+
+global 
+{
+	ZOOM		1.05
+	ORIGIN		140.71  	19.64 	-695.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"maps/overviews/ww_2fort.tga"
+	HEIGHT	-695.00
+}

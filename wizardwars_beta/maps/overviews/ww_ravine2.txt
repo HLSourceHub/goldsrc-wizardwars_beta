@@ -1,0 +1,14 @@
+// overview description file for ww_ravine2.bsp
+
+global 
+{
+	ZOOM		1.04
+	ORIGIN		1112.00  	14.44 	-2561.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"maps/overviews/ww_ravine2.tga"
+	HEIGHT	-2561.00
+}

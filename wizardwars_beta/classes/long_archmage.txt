@@ -1,0 +1,24 @@
+STATS
+Max Health: 60
+Max Armor: 40
+Max Speed: SLOW
+
+SPELLS
+Crook Staff, Mana Bolt, Armor Spell
+
+SATCHEL
+Health Satchel - replenishes 30 health & 30 armor for you.
+
+SPECIAL ABILITY
+None
+
+MAGIC SEAL
+None
+
+COMBOS
+Meteor – Use this wisely, as you will rarely get this mighty spell.
+------------------
+
+This special character appears only in certain situations.
+
+The Old Archmage is the “hunted” in ww_volcano and other hunted style maps.

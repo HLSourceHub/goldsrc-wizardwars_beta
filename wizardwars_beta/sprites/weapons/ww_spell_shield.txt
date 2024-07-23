@@ -1,0 +1,6 @@
+5
+weapon			640 hud2		0	0	170	45
+weapon_s		640 hud2		0	0	170	45
+ammo			640 hud1		0	96	24	24
+ammo2			640 hud1		120	72	24	24
+crosshair		640 crosshairs	24	0	24	24

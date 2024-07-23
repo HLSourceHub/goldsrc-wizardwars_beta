@@ -1,0 +1,16 @@
+STATS
+Max Health: 60
+Max Armor: 40
+Max Speed: SLOW
+
+SPELLS
+Crook Staff, Mana Bolt, Armor Spell
+
+SATCHEL
+Health Satchel - replenishes 30 health & 30 armor for you only.
+
+ABILITIES
+None
+
+MAGIC SEAL
+None

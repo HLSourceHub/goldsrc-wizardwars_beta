@@ -1,0 +1,14 @@
+// overview description file for ww_atrocity.bsp
+
+global 
+{
+	ZOOM		0.76
+	ORIGIN		0.00 	29.06 	-33.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"maps/overviews/ww_atrocity.tga"
+	HEIGHT	-33.00
+}

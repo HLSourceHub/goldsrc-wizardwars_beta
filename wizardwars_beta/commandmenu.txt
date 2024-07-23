@@ -1,0 +1,57 @@
+// Wizard Wars 1.2 FINAL
+// Command Menu
+
+"1" "Options"
+{
+	CUSTOM	"1" "Server Info"		"!SERVERINFO"
+	CUSTOM	"2" "Class Help"		"!CLASSDESC"
+	CUSTOM	"3" "Map Help"			"!MAPBRIEFING"
+	CUSTOM	"4" "General Help"		"!HELP"    	        
+}
+
+CUSTOM	"2" "Change Class"			"!CHANGECLASS"
+CUSTOM	"3" "Change Team"			"!CHANGETEAM"
+CUSTOM	"4" "Spectate"				"!SPECTATE"
+		"5" "Call For Healer"		"saveme; say_team I have %h Health & %a Armor. I need more please!"
+		"6" "Discard Magic"			"discard"
+
+"fire" "7" "Reality Fissure?"
+{
+	"1" "Yes!"						"_special 1"
+	"2" "No!"						"_special 2"
+}
+
+"ice" "7" "Frostmage Menu"
+{
+	"1" "Invisibility mode on"		"_special 1"
+	"2" "Invisibility mode off"		"_special 2"
+	"3" "Last enemy seen disguise"	"_special 3"
+}
+
+"nature" "7" "Sylvanist Menu"
+{
+	"1" "Grow Thornplant"			"_special 1"
+	"2" "Fertilize TP"				"_special 2"
+	"3" "Harvest TP"				"_special 3"
+	"4" "Destroy TP #1"				"_special 4"
+	"5" "Destroy TP #2"				"_special 5"
+	"6" "Destroy Beanstalk"			"_special 6"
+}
+
+"life" "7" "Sacrifice yourself?"
+{
+	"1" "Yes!"						"_special 1"
+	"2" "No!"						"_special 2"
+}
+
+"8" "Messages"
+{
+	"1" "Team"
+	{
+		"1" "Set TBs"					"say_team Hey, set up some thorn bushes!"
+		"2" "Kill TBs"					"say_team Hey, someone clear the thorn bushes near the enemy grail!"
+		"3" "Attack"					"say_team Attack!"
+		"4" "Where's Grail"				"say_team Where's our grail?!"
+		"5" "Enchant TP"				"say_team I need an elementalist to enchant my thorn bushes!"
+	}
+}

@@ -1,0 +1,93 @@
+72
+selection				640	640hud3		 0 180 170 45
+
+bucket1					640	hud1		168	72	20 20
+bucket2					640	hud1		188	72	20 20		
+bucket3					640	hud1		208	72	20 20		
+bucket4					640	hud1		168	92	20 20		
+bucket5					640	hud1		188	92	20 20		
+bucket6					640	hud1		208	92	20 20		
+bucket7					640	hud1		208	92	20 20
+bucket8					640	hud1		208	92	20 20
+bucket9					640	hud1		208	92	20 20
+bucket0					640	hud1		208	92	20 20
+		
+number_0				640	hud1		0	0	20 24
+number_1				640	hud1		24	0	20 24
+number_2				640	hud1		48	0	20 24
+number_3				640	hud1		72	0	20 24
+number_4				640	hud1		96	0	20 24
+number_5				640	hud1		120	0	20 24
+number_6				640	hud1		144	0	20 24
+number_7				640	hud1		168	0	20 24
+number_8				640	hud1		192	0	20 24
+number_9				640	hud1		216	0	20 24
+
+divider					640	hud1		240	0	 2 40
+cross					640	hud1		80	24	32 32
+suit_full				640	hud1		0	24	40 40
+suit_empty				640	hud1		40	24	40 40
+
+d_default				640 deathmsg	 0   96 24 24
+d_staff					640	deathmsg	 72   0 60 24
+d_missile				640	deathmsg	  0   0 24 24
+d_whiteray				640	deathmsg	 72  24 60 24
+d_deathray				640	deathmsg	 72  48 60 24
+d_freezeray				640	deathmsg	 72  72 60 24
+d_forceblast			640 deathmsg	 72  96 60 24
+d_fireball				640 deathmsg	 72 120 60 24
+d_flamelick				640 deathmsg	 72 144 60 24
+d_skull					640 deathmsg	 72 168 60 24
+d_iceshard				640 deathmsg	  0  24 24 24
+d_stone					640 deathmsg	 72 192 60 24
+d_thornbush				640 deathmsg	  0  48 24 24
+d_spotbolt				640 deathmsg	  0  72 24 24
+d_lightningbolt			640	deathmsg	 72 216 60 24
+d_satchel				640 deathmsg	  0 120 24 24
+d_cocklebur				640 deathmsg	  0 120 24 24
+d_thornblast			640 deathmsg	  0 144 24 24
+d_pebbleblast			640 deathmsg	  0 144 24 24
+d_bird					640 deathmsg	 24  24 48 24
+d_updraft				640 deathmsg	132   0 60 24
+d_bearbite				640 deathmsg	 24  72 48 24
+d_dragonbreath			640 deathmsg	132  24 60 24
+d_wyvern				640 deathmsg	 24  96 60 24
+d_seal					640 deathmsg	194  10 40 24
+
+d_proj_meteor			640 deathmsg	132	48	60	24
+d_spiritwiz				640 deathmsg	132	48	60	24
+d_proj_lightningcloud	640 deathmsg	132	48	60	24
+d_combospell			640 deathmsg	132	48	60	24
+d_balllightning			640 deathmsg	132	48	60	24
+d_proj_comet			640 deathmsg	132	72	60	24
+d_tornado				640 deathmsg	132	48	60	24
+d_throwingbone			640 deathmsg	132	48	60	24
+d_giantplant			640 deathmsg	132	48	60	24
+d_wombat				640 deathmsg	132	48	60	24
+
+dmg_bio					640	status2		128   0 64 64
+dmg_poison				640	status2		128   0 64 64
+dmg_chem				640 status2		  0   0 64 64
+dmg_cold				640 status1		 64   0 64 64
+dmg_drown				640 status2		 64   0 64 64
+dmg_heat				640 status1		128   0 64 64
+dmg_gas					640 status1		  0   0 64 64
+dmg_rad					640 status1		192   0 64 64
+dmg_shock				640 status2		192   0 64 64
+
+item_battery			640 hud2		176	  0	44 44
+item_healthkit			640 hud2		176	 48	44 44
+item_longjump			640	hud2		176	 96	44 44
+item_blue				640	status3		  0 192 64 64
+item_red				640	status3		 64 192 64 64
+item_yellow				640	status3		128 192 64 64
+item_green				640	status3		192 192 64 64
+
+status_invis			640	status3		  0	  0	64 64
+status_invul			640	status3		 64	  0	64 64
+status_suit				640	status3		192	  0	64 64
+status_quad				640	status3		128	  0	64 64
+status_immune			640	status3		  0  64	64 64
+status_bear				640	status1		  0   0 64 64
+
+dragon			640	dragon	0 0 32 64

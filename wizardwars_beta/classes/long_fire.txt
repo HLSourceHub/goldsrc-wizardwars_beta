@@ -1,0 +1,30 @@
+Pyromancer - Evoker of the Arcane Flame, the Pyromancer utilizes the unchecked powers of fire to turn those before him to ash and smoke. There are few able, or willing, to stand against a Pyromancer in a Wizard's Duel, for there are none as destructive. It is often this reason that many a Wizard's Duel revolves around the usage of Fireballs, for distance, size, or crater.
+------------------
+STATS
+Max Health: 100
+Max Armor: 150
+Max Speed: Low - Medium 
+
+SPELLS
+Pyro Staff, Mana Bolt, Armor Spell, Conflagration, Fireball
+
+SATCHEL
+Pyro Satchel – Spinning tongues of flame do 75-750 fire damage 
+
+SPECIAL ABILITY
+Reality Fissure – All nearby enemies will be slain as you bend reality to your will. This powerful ability needs a second or two to manifest itself and 100 mana.
+
+MAGIC SEAL 
+Gives allies invulnerability to fire damage for 30 seconds 
+Does 100 fire damage to enemies nearby 
+
+COMBOS
+Ball Lightning (with Voltamancer) – A powerful burst of lightning will swiftly strike down your foes.
+Meteor (with Necromancer) – A destructive spell that will call burning rocks from the sky to crush your target. 
+
+TIPS:
+Set them on fire.
+The strength of a Pyro comes in his ability to set enemies on fire with his Fireball and Conflagration spells. The more you hit your enemies with fire, the longer they'll burn and the more damage they'll take. You're a great class for sowing confusion in the enemy ranks, mainly because it's really hard to aim effectively when you're burning to death. Get in close, set them on fire, and retreat while they burn. Keep doing it until they die. 
+
+Hold them off with your satchels.
+your satchels set an area of ground on fire for a few seconds, igniting any players who try to move through it. They're great for blocking off an area, saving time and probably your life. Drop them on the ground if you're being pursued, or throw one into rooms filled with enemy defenders to force them to move away from their positions. 

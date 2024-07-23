@@ -1,0 +1,14 @@
+// overview description file for ww_checkmate.bsp
+
+global 
+{
+	ZOOM		1.25
+	ORIGIN		0.00 	92.19 	-2049.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"maps/overviews/ww_checkmate.tga"
+	HEIGHT	-2049.00
+}

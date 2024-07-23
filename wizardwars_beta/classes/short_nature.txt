@@ -1,0 +1,21 @@
+STATS
+Max Health: 90
+Max Armor: 90 Medium Armor
+Max Speed: Medium
+
+SPELLS
+Nature Staff, Mana Bolt, Shield Spell, Thornblast, Beanstalk
+
+SATCHEL
+Cocklebur satchel – Deals 50 acid damage and creates acidic burrs that will attach to enemies.
+
+SPECIAL ABILITIES
+Can build up to two Sentinent Thornplants for base defense. These can be upgraded via the build menu to be tougher and do more damage.
+
+MAGIC SEAL 
+Gives allies 20 mana 
+Roots enemies in place for 5 seconds 
+
+COMBOS
+Giant Plant (with Frostmage), Spirit Wizard (with Cleric).
+

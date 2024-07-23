@@ -1,0 +1,40 @@
+Cleric - Master over the Divine Arts, the Cleric is trained in the judgement of the world, lending aid in the form of mending to allies, and striking those that would oppose their crusade. While often not considered one of the true Magi, few dispute the unrivalled aid a Cleric brings to the battlegrounds of Arathas.
+---------------
+STATS
+Max Health: 75
+Max Armor: 80 Medium Armor
+Max Speed: High
+
+SPELLS
+Staff of Healing, Dual Mana Bolt, Armor Spell, Repel, Life Ray
+
+SATCHEL
+Heal-hurt satchel - Does 110 damage to enemies and heals 110 health of allies (including poison).
+
+SPECIAL ABILITIES
+Heals self of 4 damage and cures status ailments every 5 seconds.
+Sacrifice self to do 200 damage and blind enemies in 250u radius. 
+Sacrifice self to heal 100 damage to allies in 250u radius. 
+Sacrifice player recieves 1 frag for every ally cured of poison. 
+Sacrifice is delayed by 4 seconds. 
+
+MAGIC SEAL 
+Heals 20 damage and cures all ailments for allies 
+Does 10 damage and blinds enemies. 
+
+COMBOS
+Spirit Wizard (with Sylvanist) – Summons a spirit from death to aid you in your battles. The Spirit can only be called for 30 seconds at a time.
+Wally the Wombat (with Geomancer) – He may look funny, but Wally packs a punch! Wally will stay for 40 seconds.
+
+TIPS:
+Heal your teammates.
+When you look at your teammates (by pointing your crosshairs at them), their Player ID will show you their health and armor. If their health is less than 100%, they need some healing. Select your staff or life ray and start the healin'.  Your seal's ability or your sacrifice will also heal stuff.
+
+Cure your teammates.
+Your healing abilities will heal everything. If you see that one of your teammates is dizzy, shocked, poisoned or burning from flames, use your healing skills on them to cure them of their affliction. They'll be eternally grateful.  Your seal's ability or your Sacrifice will also cure stuff.
+
+Listen for "Heal Me!".
+Other teammates might signal to you that they need healing by shouting out to be healed. You'll see a flashing red icon above the player who is calling for assistance. Heal 'em!
+
+Repel it!
+This spell is pretty useful, it will repel almost any spell or player away from you, protecting you from harm.  And in some cases, will repel the spell directly back at the caster!

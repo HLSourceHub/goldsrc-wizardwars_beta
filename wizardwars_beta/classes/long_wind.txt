@@ -1,0 +1,42 @@
+Zephyrist - Walker upon the Four Winds, the Zephyrist is that which brings the storm, and causes devastation to the countryside far and wide, whereas the Tempest merely strikes down peasants. There is little haven against the gales, for even walls eventually topple, or mountains are worn down through time, and it soon throws about those caught in its fury.
+------------------
+STATS
+Max Health: 80
+Max Armor: 80
+Max Speed: Very Fast
+
+SPELLS
+Wind Staff, Mana Bolt, Armor Spell, Updraft, Wind Riding 
+
+SATCHEL
+Cyclone Satchel - Lifts enemy high up in air for 5 seconds.   
+
+SPECIAL ABILITY
+None
+
+MAGIC SEAL 
+Blasts allies up at 800 velocity 
+Blasts enemies away at 800 velocity 
+
+COMBOS
+Tornado (with Geomancer) – Creates a whirling vortex of air that will rip any enemies of their feet. Lasts for 30 seconds.
+Spirit of the Dragon (with Dragoner) – Summons a dragon companion that will float above you and attacks with you. Will stay for 30 seconds.
+
+TIPS:
+Fly like the wind.
+Easily the Zephyrist's best spell, this allows him to take off into the air and pretty much go anywhere on the map.  Be careful, though, when your mana runs out, so does your flying ability!
+
+Run. Don't fight. 
+Every single enemy you meet is a better fighting class than you are. Remember, your goal is to get the Grail, not kill the enemy. Leave the killing to your teammates who are playing fighting classes.
+
+Don't run in straight lines. 
+Your enemies will be doing everything they can do to prevent you from getting into their base. Use your "Move Left" and "Move Right" keys to dodge incoming fire. Even if you can't see an enemy, keep dodging as you run, because chances are good that there's a Tempest with a spotbolt aimed at you. 
+
+Call for help. 
+If the enemy has a defensive position that you just can't get past, or a level 3 Thornplant that keeps killing you, call for backup. Tell your teammates where the enemy (or TP) is, and let them take care of him for you. 
+
+Updraft enemy defenders. 
+If there are a lot of enemy defenders in a room, use your Updraft spell to soften them. Hopefully the defenders won't have time to avoid it with only a second's warning. After the enemies are airborne, run like the wind! Airborne defenders find it hard to hit any target, let alone a Zephyrist running away at full speed. 
+
+Slow down pursuers with your cyclone satchels.
+These stachels really pack a punch!  When you're being pursued, drop one of these satchels to ensure the enemy runs right over it when the cyclone emits from it!  If you're lucky, the enemy will be lifted up in the air for a few seconds so you can make a quick escape. 

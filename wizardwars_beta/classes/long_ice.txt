@@ -1,0 +1,42 @@
+Frost Mage - A master of ice and illusion, the Frost Mage is possibly the most versatile wizard of all.  He slips unseen through the smallest portal, mingles easily with enemies, and, when it suits his purpose, completely disappears.
+No one is safe; for just when you think you’re alone he slams you in the back with the crystal staff and freezes you for a short while.
+As one would expect, the Frost Mage is the ultimate spy.  
+------------------
+STATS
+Max Health: 90
+Max Armor: 90
+Max Speed: Medium - High 
+
+SPELLS
+Crystal Staff, Mana Bolt, Armor Spell, Ice Shard, Freeze Ray 
+
+SATCHEL
+Frozen Satchel - Freezes an enemy for 5 seconds   
+
+SPECIAL ABILITIES
+Can go invisible for 20 mana. 
+Invisibility requires 2 mana every 0.5 seconds to maintain, if moving. 
+Can disguise as last seen enemy for 20 mana. 
+Disguise is lost if player attacks.
+
+MAGIC SEAL 
+Gives allies invisibility for 30 seconds, or until they attack
+Adds 10 seconds of frost to enemies, does 20 freeze damage 
+
+COMBOS
+Giant Plant (with Sylvanist) – This plant is carnivorous and will feast on any foes that come near to it.
+Lightning Cloud (with Voltamancer) – Creates a thundercloud that will shock enemies it meets as it moves away from you.
+
+TIPS:
+Freeze them!
+The strength of the Frost Mage comes in his ability to slow and freeze enemies with his Ice Shard and Freeze Ray spells. The more you hit your enemies with cold, the slower they'll move and the more cold damage they'll take. You're a great class for sowing confusion in the enemy ranks, mainly because it's really hard to aim effectively when you're moving really slow.  :)
+
+Go invisible.
+This is a no brainer. What your enemies can't see, its harder for them to hit.  Use your invisibility as a disguise. :D Invisibility works best when still.
+
+Enemy Disguise.
+Use this awesome ability to disguise as the last enemy you've seen.  This is great to get past those pesky Thornplants and enemies to infiltrate their base!  Remember that your teammates will also see your disguise. So if you're disguised as an enemy Cleric, your teammates will probably think you're an enemy Cleric too. If they're smart, they'll read your ID in their status bar and know you're a friendly FrostMage, but usually, they'll pump a few mana bolts into you. You can help prevent this by sticking to a simple rule: Never change your Team disguise inside your own Team's base. 
+
+Provide intelligence.
+If you're in the enemy base, waiting for the perfect opportunity to grab their Grail while no-one's looking, or to freeze a particular Defender in the back as your Team's attack squad comes in, make yourself useful. Report back information to your teammates. Tell your Team where the enemy Defenders are located, what classes they are playing, where their thornplants and seals are, and so on.
+

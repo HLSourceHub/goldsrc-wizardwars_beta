@@ -1,0 +1,47 @@
+Sylvanist - Watcher over the Verdant Plains, the Sylvanist controls the forces of nature, whether fern, bush, or oak, raising the forests to defend themself from the imperial onslaught. At first glance, the Sylvanist's focus towards protection of plants may be misconstrued as weakness, the wrath of the forest is one few tempt.
+---------
+STATS
+Max Health: 90
+Max Armor: 90 Medium Armor
+Max Speed: Medium
+
+SPELLS
+Nature Staff, Mana Bolt, Shield Spell, Thornblast, Beanstalk
+
+SATCHEL
+Cocklebur satchel – Deals 50 acid damage and creates acidic burrs that will attach to enemies.
+
+SPECIAL ABILITIES
+Can build up to two Sentinent Thornplants for base defense. These can be upgraded via the build menu to be tougher and do more damage.
+Two at Level1 250 hp
+Two at Level2 80 mana > 400 hp
+One at Level3 120 mana > 550 hp
+
+MAGIC SEAL 
+Gives allies 20 mana 
+Roots enemies in place for 5 seconds 
+
+COMBOS
+Giant Plant (with Frostmage) – This plant is carnivorous and will feast on any foes that come near to it.
+Spirit Wizard (with Cleric) – Summons a spirit from death to aid you in your battles. Lasts 30 seconds.
+
+TIPS:
+Get Mana.
+All your abilities as an Sylvanist rely upon you having enough mana. To get mana, just pick it up from extra spellbooks lying around, you'll be up to your max amount of 200 in no time. :D
+
+Build a Thornplant or two!
+Your most useful contribution to the Team is your Thornplant. You can have up to two of these built at a time, depending on their size. Positioning it well is important, although you can always harvest it and build another. Don't worry if it quickly gets destroyed the first few times you build it. Just look for a new place to put it where the enemy will have a harder time killing it. Keep an eye out for other Sylanists, and see where they're placing their TPs. Once you've picked a place to build yours, hit your "Use Special Skill" key to bring up the Build menu. If there's no option 2 to build a TP, that means you don't have enough mana, so go get some more! It takes 4 seconds to grow your TP, during which time it won't be able to shoot, so if you're building outside your base you might need someone to guard it so it wont get destroyed before it finishes growing. 
+
+Fertilize your Thornplant!
+Once you've got your TP built, you'll want to fertilize it quickly. TPs have 3 levels, and at each increasing level they have more health, and fire faster than at the previous level. Level 3 sentryguns fire spores that poison enmies as well as their thorns guns, making them particularly vicious. To upgrade your TP, make sure you've got a lot of mana, and select "Fertilize Thornplant" from the Buld menu.  If there's no option to fertilize the TP, you don't have enough mana, so go get some more from the nearest Resupply Room. Note that once your TP is level 3, you won't be able to upgrade it any further or build another one.  If you have a TP up to level 2, you may build another one - and that one may be up to level 2 as well.  
+
+Harvest ability
+This option will simply allow you to downgrade your TP one level and allow you to get some mana back in exchange.
+
+Maintain your TP!
+Once the TPs are up and running and killing some enemies, you'll need to maintain it. If you look in the bottom left of your screen, you'll see your TP's health. If it's low on health, you'll need to repair it. Simply fertilize it and it will heal. It also has photosynthesis which allows it to regenerate health slowly.
+
+Build a Beanstalk.
+The next thing that your team would be eternally grateful for is a beanstalk. Jack would be proud!! Simply select this spell, and HOLD attack where you want it to grow and voila! Instant ladder!  Careful, this gets destroyed easy so keep it protected well or you will have to grow another!
+
+

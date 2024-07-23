@@ -1,0 +1,30 @@
+Necromancer - Lord over all that is Death, the Necromancer brings the souls of the dead back, to undeath, for a corpse has no fear or sense of pain, and thus makes the perfect soldier. Outcasted from villages and empires for the often dark practices that are involved with Necromancy, such as grave robbing and sacrifices, the Black Magi tend to find new means to sustain themselves, such as siphoning the life of wayward travelers.
+---------
+STATS
+Max Health: 100
+Max Armor: 120
+Max Speed: Low - Medium 
+
+SPELLS
+Scythe Staff, Mana Bolt, Armor Spell, Drain Rayspell, Seeking Skull
+
+SATCHEL
+Satchel of Decay - Does 50 damage + contagious infection
+
+SPECIAL ABILITY
+Grim Feast – Cures and fully restores health from a dead body for the price of 100 mana 
+
+MAGIC SEAL 
+Gives allies invulnerability for 5 seconds 
+Does 20+ poison damage to enemies 
+
+COMBOS
+Meteor (with Pyromancer) – A destructive spell that will call burning rocks from the sky to crush your target. 
+Raise Dead (with Dragoner) – Will turn nearby corpses into an army of skeletal warriors.
+
+TIPS:
+Infect your enemies.
+If you use your Scythe on an enemy, you'll poison him. If you use a Satchel of Decay, they will catch a deadly virus that will spread to others on his team on contact. Clerics are able to heal this.
+ 
+Heal yourself.
+Your Grim Feat ability allows you to completely heal your hitpoints from a dead body.

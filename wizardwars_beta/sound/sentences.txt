@@ -1,0 +1,66 @@
+DOOP vox/doop
+
+//==============================================================================
+// Count Down
+//==============================================================================
+CTR0 zero
+CTR1 one second
+CTR2 two 
+CTR3 three seconds
+CTR4 four 
+CTR5 five seconds remaining
+CTR6 six
+CTR7 seven
+CTR8 eight 
+CTR9 nine
+CTR10 ten seconds remaining
+CTR11 eleven
+CTR12 twelve
+CTR13 thirteen
+CTR14 fourteen
+CTR15 fifteen seconds remaining
+CTR16 sixteen 
+CTR17 seventeen
+CTR18 eighteen
+CTR19 nineteen
+CTR20 twenty seconds remaining
+
+
+//==============================================================================
+// Capture the Grail
+//==============================================================================
+CTF_YOUCAP vox/doop you(e80) captured(e90) the(s15 e80) (e100) enemy great(e50) will(s60)
+CTF_TEAMCAP vox/doop Your(e90) team(e80) captured(e90) the(s15 e80) enemy great(e50) will(s60)
+CTF_THEYCAP vox/doop the enemy team captured(e90) Your(e90) great(e50) will(s60)
+CTF_YOUGOTFLAG vox/buzwarn you(e80) have(e90) the(s15 e80) enemy great(e50) will(s60)
+CTF_GOTFLAG vox/buzwarn Your team has the(s15 e80) enemy great(e50) will(s60)
+CTF_LOSTFLAG vox/buzwarn The enemy has(s5) your great(e50) will(s60)
+CTF_FLAGBACK vox/deeoo Your(e80) great(e50) will(s60) has(s10) returned
+CTF_EFLAGBACK vox/dadeda The enemy great(e50) will(s60) has(s5) returned
+
+//==============================================================================
+// Command Points
+//==============================================================================
+CZ_GOTCP1 vox/(e90) command point one secured
+CZ_LOSTCP1 vox/(e90) command point one (e100) is now hostile
+CZ_GOTCP2 vox/(e90) command point two secured
+CZ_LOSTCP2 vox/(e90) command point two (e100) is now hostile
+CZ_GOTCP3 vox/(e90) command point three secured
+CZ_LOSTCP3 vox/(e90) command point three (e100) is now hostile
+CZ_GOTCP4 vox/(e90) command point four secured
+CZ_LOSTCP4 vox/(e90) command point four (e100) is now hostile
+CZ_GOTCP5 vox/(e90) command point five secured
+CZ_LOSTCP5 vox/(e90) command point five (e100) is now hostile
+CZ_GOTALL vox/doop (e90) all command point(e60) seconds(s70) secured _comma _comma _comma command point(e60) seconds(s70) reset(e90)
+CZ_THEYGOTALL vox/buzwarn (e90) enemy captured(e55) seconds(s70) all command point(e60) seconds(s70) _comma _comma _comma command point(e60) seconds(s70) reset(e90)
+
+//==============================================================================
+// Checkmate
+//==============================================================================
+CH_YOURESCKING vox/doop You(e80) red(e35) scream(e30) you day(e10) your captured(e5) ing
+CH_RESCKING vox/doop Your(e90) team(e80) red(e35) scream(e30) you day(e10) your captured(e5) ing
+CH_ERESCKING vox/doop The enemy team red(e35) scream(e30) you day(e10) there captured(e5) ing
+CH_HAVEKING vox/buzwarn You(e80) have(e90) your captured(e5) ing
+CH_EHAVEKING vox/buzwarn The enemy has(s5) there captured(e5) ing
+CH_KINGRETURN vox/deeoo Your(e80) captured(e5) ing has(s10) returned
+CH_EKINGRETURN vox/dadeda The enemy captured(e5) ing has(s5) returned

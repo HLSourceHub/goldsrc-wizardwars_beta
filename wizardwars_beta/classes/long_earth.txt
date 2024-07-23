@@ -1,0 +1,38 @@
+Geomancer - Conjurer of the Unmoving Earth, the Geomancer calls forth the animals of the realm, and even the stone of the realms themself, to fell his opponents. Within everything, birds, bears, and rocks, exists a spirit, and the Geomancer seeks to unify with them, that both powers may move together towards a goal, and grow together for their own protection, even melding to become one.
+---------------
+STATS
+Max Health: 100
+Max Armor: 135
+Max Speed: Low - Medium 
+
+SPELLS
+Earthen Staff, Armor Spell, Pebble Blast, Stone Summon, Art of Falconry
+
+SATCHEL
+Earthquake Satchel – Waves of crushing force do 75-225 damage. 
+
+SPECIAL ABILITIES
+Bear Transformation - Morphs into a bear for 20 mana
+Bear morph requires 5 mana every 2.5 seconds to maintain 
+Bear health is 200, armor is 200 
+
+MAGIC SEAL 
+Restores 50 armor for allies 
+Sinks enemies into the ground for 5 seconds 
+
+COMBOS
+Tornado (with Zephyrist) – Creates a whirling vortex of air that will rip any enemies of their feet. Lasts for 30 seconds.
+Wally the Wombat (with Cleric) – He may look funny, but Wally packs a punch and can also heal team-mates. Wally will stay for 40 seconds.
+
+TIPS:
+Defend.
+Don't go on Offence with this class until you're fairly experienced. You're the slowest moving class in the game, and you'll be picked off by enemy Tempests before you even get into the enemy base. You're one of the strongest defensive classes in the game. Just keep firing your Stones and Wyverns at anyone attacking you, and they'll be the ones to die first. 
+
+Stand in doorways and narrow hallways.
+Zephyrists hate you. You're their worst nightmare. The only thing on an enemy Zephyrist's mind when he sees a Geomancer on Defence is "How can I get past him?"  If He's Smart, he'll fly right over you, don't give him the chance! Do your part to make it harder for Zephyrists by standing in doorways that they need to get through. Zephyrists will run up and attempt to squeeze by you. Ignore them if they're shooting at you, since they have about 1/5 of the armor you have. Start casting multiple rock spells and let 'em have it. If you're feeling particularly nasty in a Capture The Grail map, go and stand right on top of your Grail and cast your seal there. :)   Watch out for their Updraft spell or cyclone satchels, though. 
+
+Work with a Cleric.
+Try and get a Cleric to follow you around, so that you can get him to heal you. Since you're so slow, it takes you longer than any other class to get to the nearest Resupply Room, stock up, and return to your position. If you've got a Cleric to save you the trouble, you can ensure your position is never left undefended. Remember to use your "Call for healing" key to signal that you need assistance from them. Try to get a Cleric to cast a Seal next to you so you can heal whenever needed.
+
+Be a Bear!
+This is the most useful ability the Geomancer has.  He's big, bad, but very slow. The bear makes a good "bodyguard" for other classes, such as a teammate who is carrying the grail. It's good to morph into the bear in enclosed hallways and spaces, then when you kill the enemy, take his mana so you may stay transformed longer!  

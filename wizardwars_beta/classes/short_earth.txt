@@ -1,0 +1,22 @@
+STATS
+Max Health: 100
+Max Armor: 135
+Max Speed: Low - Medium 
+
+SPELLS
+Earthen Staff, Armor Spell, Pebble Blast, Stone Summon, Art of Falconry
+
+SATCHEL
+Earthquake Satchel – Waves of crushing force do 75-225 damage. 
+
+SPECIAL ABILITIES
+Bear Transformation - Morphs into a bear for 20 mana
+Bear morph requires 5 mana every 2.5 seconds to maintain 
+Bear health is 200, armor is 200 
+
+MAGIC SEAL 
+Restores 50 armor for allies 
+Sinks enemies into the ground for 5 seconds 
+
+COMBOS
+Tornado (with Zephyrist), Wally the Wombat (with Cleric).

@@ -1,0 +1,21 @@
+STATS
+Max Health: 100
+Max Armor: 120
+Max Speed: Low - Medium 
+
+SPELLS
+Scythe Staff, Mana Bolt, Armor Spell, Drain Rayspell, Seeking Skull
+
+SATCHEL
+Satchel of Decay - Does 50 damage + contagious infection
+
+SPECIAL ABILITY
+Grim Feast - Fully restores health and cures everything from dead body in exchange for 100 mana 
+
+MAGIC SEAL 
+Gives allies invulnerability for 5 seconds 
+Does 20+ poison damage to enemies 
+
+COMBOS
+Meteor (with Pyromancer), Raise Dead (with Dragoner). 
+ 

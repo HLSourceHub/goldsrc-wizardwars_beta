@@ -1,0 +1,14 @@
+// overview description file for ww_december.bsp
+
+global 
+{
+	ZOOM		1.03
+	ORIGIN		352.00 	604.88 	-577.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"maps/overviews/ww_december.tga"
+	HEIGHT	-577.00
+}

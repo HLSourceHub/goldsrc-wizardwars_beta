@@ -1,0 +1,2693 @@
+{
+    "files": {
+        "Changes.txt": {
+            "hash": "0cbe87be61e4df5564238419fdc192a869817a68d5db765a064a9d2c98cede02",
+            "size": 5696
+        },
+        "commandmenu.txt": {
+            "hash": "5030bf82bf1c1d06df1d806c237efe457a31edd81e24ef82b6d12ad2c832ff46",
+            "size": 1513
+        },
+        "config.cfg": {
+            "hash": "c3609cd83cdf175aa74f1481616242040fca3eb8a85cbb49618e65bc4cede98b",
+            "size": 3847
+        },
+        "custom.hpk": {
+            "hash": "df7ddb87ac4e18ee4e1ac0266c6b38937c2fdf48b5a99ff7a66a9a2156428e75",
+            "size": 12896
+        },
+        "decals.wad": {
+            "hash": "17726e8174729011c7ea4e1e37b4ccfe7a9aa4abb82c2aaca87872cbe0c106d0",
+            "size": 924840
+        },
+        "delta.lst": {
+            "hash": "856aa26b913fd48db75973782d6fd5ee693d22aaa87a3b4291389fc1d4152204",
+            "size": 12968
+        },
+        "help.txt": {
+            "hash": "106ce0cfd457c00fb10093e167b76bb999116893ffceb9227fc1c67661150643",
+            "size": 75
+        },
+        "HPB_bot.cfg": {
+            "hash": "304ab9064fbea2418e28004e19d9932212527224d00feb143852e84f34b2ecc8",
+            "size": 6645
+        },
+        "HPB_bot_chat.txt": {
+            "hash": "2d24a18504a8efedd5c35d31e67c24194bf9abe85ecd8988276a4743769c6c4e",
+            "size": 2449
+        },
+        "HPB_bot_names.txt": {
+            "hash": "0ee74e2d2d31b45475e9e122b7f2d378f8d5fde8f04429a4728bec26404578f0",
+            "size": 267
+        },
+        "HPB_bot_ReadMe.txt": {
+            "hash": "7616204e92a176c091f12f1d546b36b8ccb61afdd05eb6e6b153ef47c2f9d7e0",
+            "size": 10835
+        },
+        "HPB_bot_waypoint.txt": {
+            "hash": "509f92a7049982182c150651f5ab4b3b161de70dfb14df205776f4725ebca356",
+            "size": 20733
+        },
+        "liblist.gam": {
+            "hash": "b9037834532b14f950068f75b4fd8f0ae7061567074f2a2720abace561f44fab",
+            "size": 497
+        },
+        "License.txt": {
+            "hash": "bc510db3ebc2f673afdf118bb9da3e3ff8e4253ee42f13f3668c43fc97c9e208",
+            "size": 679
+        },
+        "listenserver.cfg": {
+            "hash": "e357212dfa124fac23e8f18afc81306a71126cbf4f191aa419388409a4b12806",
+            "size": 2993
+        },
+        "mapcycle.txt": {
+            "hash": "a6883d9fe8d2a88964246121c34770f54ad274826da7bace337949bf08e7807d",
+            "size": 142
+        },
+        "motd.txt": {
+            "hash": "1bc4a9036d9e13eba745b55c44cc064353bd6deb01b20eaacb88ddad17b64d81",
+            "size": 144
+        },
+        "server.cfg": {
+            "hash": "c9ac43e1f28bc2ce6d25a9964e70e7276820bb6cc02a3093aa347bbd2516f4c8",
+            "size": 2994
+        },
+        "settings.scr": {
+            "hash": "ee272af564bce1f0ed3d3ef8d0ff7bcd76af93633ec343e91748cebfa6bf0ed1",
+            "size": 1467
+        },
+        "tempdecal.wad": {
+            "hash": "296e7be4349e223d6dcd956cdc617d8560d5f0ef235152c1440652be47ea6839",
+            "size": 6296
+        },
+        "tfc.wad": {
+            "hash": "c8f74de25868d27f2702c5ee466496f9bf36e28f270c0eac48ceaaeac58eca4a",
+            "size": 8650312
+        },
+        "tfc2.wad": {
+            "hash": "b822a3a931dc7eec8ff9255d76e9ac829b021faec856a01e291ababc6491a540",
+            "size": 11472812
+        },
+        "TFCwadsforWW_readme.txt": {
+            "hash": "b25d31340baf16591b592e8cef8171a2c8dda2102d1c6b1b1a43ce3f5b217095",
+            "size": 860
+        },
+        "titles.txt": {
+            "hash": "c690b534d5eb4eae90b388b39c7b5245a43dbfcd046b483b596a9aa4dd2cb1d5",
+            "size": 11886
+        },
+        "user.scr": {
+            "hash": "60b66e42b05e182a86fd2227f190d3a78a76aeb969a196e7e58a0d7de3a1dabc",
+            "size": 1518
+        },
+        "voice_ban.dt": {
+            "hash": "67abdd721024f0ff4e0b3f4c2fc13bc5bad42d0b7851d456d88d203d15aaa450",
+            "size": 4
+        },
+        "Wizard Wars.lnk": {
+            "hash": "6efcf7c8e9df9c3d520ac66db74cec4a9ebfb9dcfe5eedca0197f623802be48e",
+            "size": 719
+        },
+        "Wizard Wars.url": {
+            "hash": "b77c750f43982b77f00d5a9a0dfeced27461d861bda20be9dac40231298f2677",
+            "size": 125
+        },
+        "wizardwars.fgd": {
+            "hash": "9f08a4dce31f2bfb2ed735b78a5e8321da5bc100ba619f4ba3292f6de333ee87",
+            "size": 68382
+        },
+        "wizardwars.ico": {
+            "hash": "8cf830a72fa6c8248e215951783ce56598b5793c73697730d3bb8baccaf7fe1d",
+            "size": 7406
+        },
+        "wwwad.wad": {
+            "hash": "e0dcbefa4082a0fcc0979d82896428f0ee0ef2eab5311c5308ddfe6f3fdf1607",
+            "size": 10068716
+        },
+        "addons\\HPB_bot_mm\\dlls\\HPB_bot_mm.dll": {
+            "hash": "424eab0db032b515f30b961980fd435ef37a5ee43ff070407642f20580bd4b01",
+            "size": 225280
+        },
+        "addons\\HPB_bot_mm\\dlls\\HPB_bot_mm_i486.so": {
+            "hash": "327c1d4800740941579f75912351bb2b96e124cb22e456c5d98b4670b6a92faf",
+            "size": 239200
+        },
+        "addons\\metamod\\plugins.ini": {
+            "hash": "7c6470c558e9a3ac66504af27c4986a2456eb05ff4f860f0d360affb05e28ae5",
+            "size": 407
+        },
+        "addons\\metamod\\dlls\\metamod.dll": {
+            "hash": "4a6bd5d7e495048d81473aefd7aa56dc2c4a89ccd152be31ec81c329b234939e",
+            "size": 134656
+        },
+        "addons\\metamod\\dlls\\metamod_i386.so": {
+            "hash": "1642068eba185dac309fc9f9d36e7282a3103d92a0d52f55b3f6ea0ad10192ee",
+            "size": 170979
+        },
+        "classes\\long_archmage.txt": {
+            "hash": "2820477f885462eab830b6c88b7eaa4d6185eaf8ed929f728e037fdf3924add0",
+            "size": 458
+        },
+        "classes\\long_death.txt": {
+            "hash": "96711d61a284abb1a1fe6d8f930b9fccf10dbf24ad065de4b63e1b867ec9946f",
+            "size": 1414
+        },
+        "classes\\long_dragon.txt": {
+            "hash": "f28c18cbdbdb61c74f9a6340ad8ca8e4cd90460ee4c01827ce331dba49b72af2",
+            "size": 2438
+        },
+        "classes\\long_earth.txt": {
+            "hash": "eec61b247eeea8c5f0cc521819e2ff44292cdb58eccbde493ae20a8146ac066f",
+            "size": 3180
+        },
+        "classes\\long_fire.txt": {
+            "hash": "86d16b53e48a9fd1b1f29217834bd46c48c955e56afd47c84a046a5b8c6870dc",
+            "size": 1986
+        },
+        "classes\\long_ice.txt": {
+            "hash": "a3545a66b667ff4d73df338ec18004a7d6d98a12c5d5404523f7c021be0968f4",
+            "size": 2845
+        },
+        "classes\\long_life.txt": {
+            "hash": "ca2c051512e8a7346e8e129fb3ba3bd1b4c2283d7aaca5d499002e7ecfcbb3dd",
+            "size": 2331
+        },
+        "classes\\long_lightning.txt": {
+            "hash": "cd1a28af90c27fc34e7dca06f513ece8e616babe109cd7ae53ebbc0611805799",
+            "size": 2437
+        },
+        "classes\\long_nature.txt": {
+            "hash": "ab841f87be1175f7e61a2f9e616168bd96ba21ac355ee806d334b2e0702f6164",
+            "size": 3812
+        },
+        "classes\\long_wind.txt": {
+            "hash": "8272e3c2546267fd9eea1b494b987af6d1c99091681f010833d230a082dd4f04",
+            "size": 2663
+        },
+        "classes\\short_archmage.txt": {
+            "hash": "f80a31dafad058e964c8e2181b87586d5c9829224d6847a924e65a60591ae4ba",
+            "size": 217
+        },
+        "classes\\short_death.txt": {
+            "hash": "ea19500f5f2b714a83d44adb57af9fbc2aa0d4cda998804669dd4346d51e6b72",
+            "size": 496
+        },
+        "classes\\short_dragon.txt": {
+            "hash": "3aadf2bb5c7dc2abfe52ef163892aed2556ee734b0280600adcda8b7508ec97b",
+            "size": 429
+        },
+        "classes\\short_earth.txt": {
+            "hash": "69999abd507eef528bb896636c89bebce8a24df3dbc2b127d15cce55098185f5",
+            "size": 555
+        },
+        "classes\\short_fire.txt": {
+            "hash": "c49984ea6ad12732f4090013468be5a50b1adb8ad0314541622675ad59de5b0a",
+            "size": 588
+        },
+        "classes\\short_ice.txt": {
+            "hash": "996c3385a6f05c24ab0777dd3b58ddccf634286a31308e4c22f5a92bd4d350a3",
+            "size": 630
+        },
+        "classes\\short_life.txt": {
+            "hash": "2287de2db7335c158fbf4af99949f0be3f7eff1b22aa32ddeadd9bf51d940f35",
+            "size": 756
+        },
+        "classes\\short_lightning.txt": {
+            "hash": "51c67674f020d95fd65abd005defb1f370ceb3b3066923e5e2c52273e137feeb",
+            "size": 446
+        },
+        "classes\\short_nature.txt": {
+            "hash": "e191ca0e3c4abf075f19fbe9b98964a8c388b24b4fcba901580c869c7566c0c2",
+            "size": 555
+        },
+        "classes\\short_randompc.txt": {
+            "hash": "0734f47fe7a79e86b3b8399788a53fe5495dfaa137fc79c1e8387124ed426688",
+            "size": 84
+        },
+        "classes\\short_wind.txt": {
+            "hash": "0929166bc7ddc4e61c74553b6c4424f8aff175d866621d0ad717df22c14ef058",
+            "size": 391
+        },
+        "cl_dlls\\client.dll": {
+            "hash": "2c95d505480e4bca81e56dbe469467380c5b91db1e31c454dccddcbaf0b91dd7",
+            "size": 561152
+        },
+        "cl_dlls\\fmod.dll": {
+            "hash": "a952a243302a0fb1fbd6ecbb09703a2de76f343115b9408aa3d89c50b8d196d2",
+            "size": 137216
+        },
+        "dlls\\wizardwars.dll": {
+            "hash": "e75c9446af07831189add454a27ca2c978d567750383b531d269ec1e4d164524",
+            "size": 999424
+        },
+        "dlls\\wizardwars_i486.so": {
+            "hash": "e881902018ffd2b0a66afb5bdb3e7bc1eadf0402c4152c13ddb12c5c332a1632",
+            "size": 1673702
+        },
+        "events\\burn.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\cocklebur.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\deathflash.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\gibs.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\icegibs.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\poison.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\spark.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\spore.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\taunt.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\thornbush.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\monsters\\dragonfire.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\monsters\\dragonflap.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\satchels\\death.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\satchels\\dragon.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\satchels\\earth.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\satchels\\fire.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\satchels\\ice.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\satchels\\life.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\satchels\\lightning.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\satchels\\nature.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\satchels\\wind.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\seals\\death.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\seals\\dragon.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\seals\\earth.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\seals\\fire.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\seals\\ice.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\seals\\life.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\seals\\lightning.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\seals\\nature.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\seals\\wind.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\spells\\beanstalk.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\spells\\bearbite.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\spells\\bird1.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\spells\\bird2.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\spells\\deathray1.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\spells\\deathray2.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\spells\\dragonbreath1.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\spells\\dragonbreath2.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\spells\\fireball1.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\spells\\fireball2.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\spells\\flamelick1.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\spells\\flamelick2.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\spells\\forceblast.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\spells\\freezeray1.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\spells\\freezeray2.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\spells\\icepoke1.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\spells\\icepoke2.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\spells\\levitate.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\spells\\lightningbolt1.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\spells\\lightningbolt2.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\spells\\missile1.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\spells\\missile2.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\spells\\pebbleblast.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\spells\\rollingstone1.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\spells\\rollingstone2.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\spells\\seal.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\spells\\shield.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\spells\\skull1.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\spells\\skull2.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\spells\\spotbolt1.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\spells\\spotbolt2.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\spells\\staff.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\spells\\thornblast.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\spells\\updraft1.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\spells\\updraft2.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\spells\\whiteray1.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\spells\\whiteray2.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\spells\\wyvern1.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "events\\spells\\wyvern2.sc": {
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "size": 0
+        },
+        "gfx\\env\\avantiBK.tga": {
+            "hash": "e7ee02be34d39225e1e0ed13708dbc75d1ca8b2469ce2f526ab4c3d0f68fa605",
+            "size": 196652
+        },
+        "gfx\\env\\avantiDN.tga": {
+            "hash": "a8a2482a8aca5d13ca053455fa3084d9aab517eb6364f891f30fe6a9978bf0cb",
+            "size": 196652
+        },
+        "gfx\\env\\avantiFT.tga": {
+            "hash": "1d56d29dad4152a76e7d4e8325b6a81594719aee5d3747bb224f1047aa0aa382",
+            "size": 196652
+        },
+        "gfx\\env\\avantiLF.tga": {
+            "hash": "1cb81e48638800f02d3ca555c42fae34208af1cb40d545edd820a8b6afca1ed0",
+            "size": 196652
+        },
+        "gfx\\env\\avantiRT.tga": {
+            "hash": "70b62ffa7679e6e9ffbc8a336bc1ce8f9569c1e9f7097406ae68aa3ef044ca20",
+            "size": 196652
+        },
+        "gfx\\env\\avantiUP.tga": {
+            "hash": "765f031e6418979f8da3b556a379e00a73792e6d01df8d4dd4e40d8f54e75bff",
+            "size": 196652
+        },
+        "gfx\\env\\darkbk.tga": {
+            "hash": "599cd186e15e0265abbc6ca25fc636f003c9693106f7c1e2ee6698bd27c7c8b5",
+            "size": 127106
+        },
+        "gfx\\env\\darkdn.tga": {
+            "hash": "f3fb9f83b0c848659470faea6dccc6338a04a5e42d85725c4e92f2b3c1b77508",
+            "size": 143046
+        },
+        "gfx\\env\\darkft.tga": {
+            "hash": "f7b84911cfd21e5fdd6895a16a8eff713132190c865ebda7057d5e8dbc8a3197",
+            "size": 126088
+        },
+        "gfx\\env\\darklf.tga": {
+            "hash": "a2e656176ff03663f1503d7d25ff5f2fc1fc33bea1064faabe5d8a4d1aa648ef",
+            "size": 142956
+        },
+        "gfx\\env\\darkrt.tga": {
+            "hash": "a8771ee48ece7c36e60e43cebb7688482dfc4a7799564906ce9a9ed2a3986460",
+            "size": 123106
+        },
+        "gfx\\env\\darkup.tga": {
+            "hash": "52e3fd7a7b77b36ee0233ab745606cd415c866a227b70803b168c55a63e33aaf",
+            "size": 36551
+        },
+        "gfx\\env\\firey_bk.tga": {
+            "hash": "31dd9fe5b6aec79a67fa861697e1d35ef51296933de0d8841bc04632d4382e1a",
+            "size": 158866
+        },
+        "gfx\\env\\firey_dn.tga": {
+            "hash": "902a56cde07c48d65c9743b75f7bdec265342201a62419566d87e22f4a76ee5f",
+            "size": 140865
+        },
+        "gfx\\env\\firey_ft.tga": {
+            "hash": "4ae7f30c2c98969c2c85dc16c09bd5a226ca568da5d766aa5ba59d4c6a5e583b",
+            "size": 163478
+        },
+        "gfx\\env\\firey_lf.tga": {
+            "hash": "1928bcbba303cc9ba905bd1e11cde192e9e275a0979ab4e2f2d85791f576e079",
+            "size": 160775
+        },
+        "gfx\\env\\firey_rt.tga": {
+            "hash": "f1d98838d39f44d97073cab34a781cc39e04a3738dc77d554862ddbbf15008a5",
+            "size": 166441
+        },
+        "gfx\\env\\firey_up.tga": {
+            "hash": "80e96c94d1c79296ff9ec889bd1eccfcd29d4ee8eca94ca0d0df64c3fbd6c739",
+            "size": 180837
+        },
+        "gfx\\env\\forest256_bk.tga": {
+            "hash": "bca0ffec54032bd105c555afa270e8be4981b1ed3c62d39bd91042dfcfdb0162",
+            "size": 196652
+        },
+        "gfx\\env\\forest256_dn.tga": {
+            "hash": "68028a894a617b89e116bed4df16da31ba774c167dc72299a38e7ac199a80554",
+            "size": 196652
+        },
+        "gfx\\env\\forest256_ft.tga": {
+            "hash": "aa5d25e85ebcece52bd57be40b1f27763a85a078934be6ad28334a6e467994e3",
+            "size": 196652
+        },
+        "gfx\\env\\forest256_lf.tga": {
+            "hash": "6842e12763754d72fe2a31ed948e759e77d3f50293ac40ceb5e3eff2cd47b3f9",
+            "size": 196652
+        },
+        "gfx\\env\\forest256_rt.tga": {
+            "hash": "6762ff8604fd539768e41a8929ac6581af9b090da822b39577f4e85bc46d75cb",
+            "size": 196652
+        },
+        "gfx\\env\\forest256_up.tga": {
+            "hash": "9b4c3e8b1d611828f1b54ef4795b8bed346d2791c7f52a0daf3ec8a79edab9e0",
+            "size": 196652
+        },
+        "gfx\\env\\fullmoonbk.tga": {
+            "hash": "269aea9051ba89835a7a86a080aae601111c429f623eff47b3b8a1943a97bedb",
+            "size": 72469
+        },
+        "gfx\\env\\fullmoondn.tga": {
+            "hash": "a1be02b727f616eb6794b224b4307c1f553fbedf040d9cd49ccfb334005d8fe9",
+            "size": 8304
+        },
+        "gfx\\env\\fullmoonft.tga": {
+            "hash": "08a31050d8fa426209316fef3d579a24586cf1de908dc1e898e9236e4a41614e",
+            "size": 85123
+        },
+        "gfx\\env\\fullmoonlf.tga": {
+            "hash": "0fca87d741ca4b28a805bbb0b99d075735703756a94298bad06581f0bca7eb98",
+            "size": 64899
+        },
+        "gfx\\env\\fullmoonrt.tga": {
+            "hash": "26e5f09eac7773af86609944a9d2df43f72a6d6dc023ef3cca51c2eb9d0f4ade",
+            "size": 59857
+        },
+        "gfx\\env\\fullmoonup.tga": {
+            "hash": "c34b241d1d5a0dae6d0fbba6184faf0a4a901d0798ba29d9be4bcfc11b404030",
+            "size": 79266
+        },
+        "gfx\\env\\nottinghambk.tga": {
+            "hash": "597a26832ad6bfdcca38faf9f1a7d6068e5a2d023d7d7a3617a3d6a8e2c73ae9",
+            "size": 196652
+        },
+        "gfx\\env\\nottinghamdn.tga": {
+            "hash": "2cdc08fec004b95068b22b557c814ac09a6f4b70ac69201a0755f03649da2492",
+            "size": 196652
+        },
+        "gfx\\env\\nottinghamft.tga": {
+            "hash": "b0f193ed7831f33f56167e1227ee80ca1f687bc49d57dc833888b6eea902e2f9",
+            "size": 196652
+        },
+        "gfx\\env\\nottinghamlf.tga": {
+            "hash": "ab3876144447f6ce0966914de90cd3b44a2eacddf2c3a1519600201920eb8872",
+            "size": 196652
+        },
+        "gfx\\env\\nottinghamrt.tga": {
+            "hash": "dbab1a52900faf2bac4b0e31b971fb1fa4d15064db54badaa3e701d0546b46fb",
+            "size": 196652
+        },
+        "gfx\\env\\nottinghamup.tga": {
+            "hash": "5e091b8da5eb951ed777b8351f67a4754e89a6f3e80e7be27f4fbec3175a6fd0",
+            "size": 196652
+        },
+        "gfx\\env\\seascapebk.tga": {
+            "hash": "c13dcbecea25b64933ccdc83ab059bb35c200f33a1bc280b96b97a94799b37d2",
+            "size": 182781
+        },
+        "gfx\\env\\seascapedn.tga": {
+            "hash": "17f2bff914c5b57d9dc3a37bdb325cc6cbb8d2616d2d24740936c4828caafaf8",
+            "size": 149009
+        },
+        "gfx\\env\\seascapeft.tga": {
+            "hash": "426e3917bc703dfe10dd7f833db071241af6d7bcdb477038d427ae13e174c15b",
+            "size": 168523
+        },
+        "gfx\\env\\seascapelf.tga": {
+            "hash": "f9c73bfa554bfbe984c389e5bec665fdac56e92fd44460f8db4a8d43d2d0eb08",
+            "size": 172547
+        },
+        "gfx\\env\\seascapert.tga": {
+            "hash": "0497b2af6a37a403c59604ff555dd703b4e03737cf39a0ae6bb9bc1f4af7960a",
+            "size": 167032
+        },
+        "gfx\\env\\seascapeup.tga": {
+            "hash": "215d9d7900865b969205bef82dec750ae4784f8903d0d22bf88a1ff623ce8fe2",
+            "size": 126716
+        },
+        "gfx\\env\\space2bk.tga": {
+            "hash": "6329b8497c102d340b3935765639af22db1cf1448a8e70e61950a883787ad827",
+            "size": 4165
+        },
+        "gfx\\env\\space2dn.tga": {
+            "hash": "fc758b0a9e5c72efb9e579244e0c47b41d8d560501a97be1d3bc14593b170a2b",
+            "size": 4165
+        },
+        "gfx\\env\\space2ft.tga": {
+            "hash": "1c83c0aeb85c858be9489603b88311647d3f08fe638d74e927d216867fa674c6",
+            "size": 4165
+        },
+        "gfx\\env\\space2lf.tga": {
+            "hash": "6a51c30f1f8964255755964193d6e4043c49d45a9f8281960f1194fc711e00cd",
+            "size": 4165
+        },
+        "gfx\\env\\space2rt.tga": {
+            "hash": "755cab658abfccfd46f39293588b21da9d6a5e2d1465e325b86722be0f026525",
+            "size": 4165
+        },
+        "gfx\\env\\space2up.tga": {
+            "hash": "f8734d26e4e1ac62d8f3f29d5b65371936ef398c3a1cf4cadbd884ccc8d977dc",
+            "size": 4165
+        },
+        "gfx\\env\\wizbk.tga": {
+            "hash": "939862ba9f84c050f8994aee0377852afb420663e573b28896a78b6ab632981b",
+            "size": 179608
+        },
+        "gfx\\env\\wizdn.tga": {
+            "hash": "4d04835ce2457afb54795d6cd051c9e6650b5b3e7804f457162f76433529653c",
+            "size": 169424
+        },
+        "gfx\\env\\wizft.tga": {
+            "hash": "e276ff3928125c19a3ef93a344ea8d1310a178c785b498c35ba7d086387a262a",
+            "size": 172721
+        },
+        "gfx\\env\\wizlf.tga": {
+            "hash": "ac47c37c32699825ec4a233b36dd4833015940342831317f248d37e3efea5354",
+            "size": 164001
+        },
+        "gfx\\env\\wizrt.tga": {
+            "hash": "066bf156bb563fd2668865002e10db69c8e8e440bc15ce0b9325e557e06c89db",
+            "size": 176245
+        },
+        "gfx\\env\\wizup.tga": {
+            "hash": "77afb20863f4582a8537a916207b97a2045c95577db2ec12f82dcc42b40600d8",
+            "size": 122413
+        },
+        "gfx\\shell\\kb_act.lst": {
+            "hash": "5572f62681d083844f4892f1f82d477c205d7d7aca61d0c44e9abfde39f89291",
+            "size": 1969
+        },
+        "gfx\\shell\\kb_def.lst": {
+            "hash": "d5c7b48d299c27cb4b2aca1d9b620e8218ded42b7943cff9d87cdca18f5bb9f3",
+            "size": 1292
+        },
+        "gfx\\vgui\\640_archmage.tga": {
+            "hash": "244c5ef760b3cae1efe94850d62a1a9de80cf656dd05277107a74d3cf4d11742",
+            "size": 131116
+        },
+        "gfx\\vgui\\640_death.tga": {
+            "hash": "b9e648bb1c7a6b267d127c584b644b0ef34e7197318aeb6543786bbc7eaa0647",
+            "size": 131116
+        },
+        "gfx\\vgui\\640_deathnew.tga": {
+            "hash": "003621848366044c3da732bb5f6987d593c7fed012637d3b152d2682d9aa9b6a",
+            "size": 697098
+        },
+        "gfx\\vgui\\640_dragon.tga": {
+            "hash": "e9053e70e1a4df7f0b7367e1dd7c491de5c36c9954eb108138170a6c7b37887b",
+            "size": 131116
+        },
+        "gfx\\vgui\\640_earth.tga": {
+            "hash": "7d24e1b01752acccb287012659824f3ad2e89cba3d270a198cca5d2617422742",
+            "size": 131116
+        },
+        "gfx\\vgui\\640_fire.tga": {
+            "hash": "ac17e984978613fb2805f1870a34e587d9bd476615257efadbce411b3f3bdaae",
+            "size": 131116
+        },
+        "gfx\\vgui\\640_ice.tga": {
+            "hash": "46532069bf9b60e99c3fea8fbfbf5abfd8a4aa4a97c38d36953d467d58dc80dd",
+            "size": 131116
+        },
+        "gfx\\vgui\\640_life.tga": {
+            "hash": "d265b6e62f1b2ae74b7abee4151f1190ecb87cd9faeff0d585059a6edfe5b246",
+            "size": 131116
+        },
+        "gfx\\vgui\\640_lightning.tga": {
+            "hash": "62e1fe7f1b925633eaae4833a7aaf492c816e3e393963d898f476c6df2a67f0d",
+            "size": 131116
+        },
+        "gfx\\vgui\\640_nature.tga": {
+            "hash": "2359b56a121f73e6078d5b040a1d5ee47379ddf1066b42b3599c69d9b843bc06",
+            "size": 131116
+        },
+        "gfx\\vgui\\640_random.tga": {
+            "hash": "d3c32774fb0d6e2951ee9787e7728bfcb9779334a322ab659ceddce920c8bb68",
+            "size": 131116
+        },
+        "gfx\\vgui\\640_wind.tga": {
+            "hash": "bf46ad483985d58445ab276034b6027828ead19b2d11d11daf922f33f542682d",
+            "size": 131116
+        },
+        "gfx\\vgui\\deathicon.tga": {
+            "hash": "3443f928ac98917d348cebf2127d9abb34cec2fdf69503d49a46e5b238c7326c",
+            "size": 1644
+        },
+        "gfx\\vgui\\neticon.tga": {
+            "hash": "cd3d74ee6506959902b513384d5a1b5a0dd5207dff6c2fe87988fecb20b5be41",
+            "size": 1324
+        },
+        "gfx\\vgui\\scoreicon.tga": {
+            "hash": "c1f232048d3a68a82d31efecbd49f563df49e66afdc87d9d789ae54dd8ba19fd",
+            "size": 1644
+        },
+        "gfx\\vgui\\hud\\armor.tga": {
+            "hash": "8293e84ec77c8f2c4307d0013a398761b9742328e7bda81071c526e294c212a6",
+            "size": 30044
+        },
+        "gfx\\vgui\\hud\\armorbg.tga": {
+            "hash": "5d61f392132f598418951d5ff416315a357afacac831bd5e39f33701532d0eab",
+            "size": 30044
+        },
+        "gfx\\vgui\\hud\\bulb.tga": {
+            "hash": "6fcc8e865160cf893c768f24bf7b0a34d4cdd5a6e30e137ac665c798d99cbc35",
+            "size": 40044
+        },
+        "gfx\\vgui\\hud\\health.tga": {
+            "hash": "8aed0d9b3b81f6fc838f80bd985acb936f4018c79d8b432f34a32e6c07ca8969",
+            "size": 40044
+        },
+        "gfx\\vgui\\hud\\lefthand.tga": {
+            "hash": "2ed9667bbbcef36c151f5db881e854cc37aa49a057269e9e21a530f6b84422c0",
+            "size": 5044
+        },
+        "gfx\\vgui\\hud\\mana.tga": {
+            "hash": "469e74c7e15089259f71f62a9aa86d3b1f4dce5aad7add069719f2862de0af07",
+            "size": 40044
+        },
+        "gfx\\vgui\\hud\\righthand.tga": {
+            "hash": "9b8136d7a81338782ef696c23580f51530b267b325da91ab551b2063bb49d778",
+            "size": 5044
+        },
+        "gfx\\vgui\\hud\\satchel.tga": {
+            "hash": "39b75544189293862c65cb81f36ece00a04cb5c7c762d31aba384a3f4590d843",
+            "size": 10044
+        },
+        "logos\\remapped.bmp": {
+            "hash": "de7da4726dd90c52967168941a2110df08c7122928a91128900af9c5c91cbc33",
+            "size": 5176
+        },
+        "maps\\WPT_December.txt": {
+            "hash": "9de5c199afe99f6b2f186da0b6858340bac150fedd6ed7e25e2e18a3c0451af5",
+            "size": 1075
+        },
+        "maps\\ww_2fort.bsp": {
+            "hash": "9c67fdff9d3244000eb2a6ea7e560c2e0ede83671fb6d3a568cd9e2d16be5232",
+            "size": 4045308
+        },
+        "maps\\ww_2fort.HPB_wpt": {
+            "hash": "243b2fbfcb8f9912a13439dd7c3eb88e801535825378edc05393f50d0cff6ecd",
+            "size": 5808
+        },
+        "maps\\ww_2fort.txt": {
+            "hash": "03928424af30f9cedbe29e3a9c9fbfb3b1f031534eb3002205e62ce0fe88b8b0",
+            "size": 633
+        },
+        "maps\\ww_atrocity.bsp": {
+            "hash": "70da47b2172f8c2666e3d2e8d92353cc1805534a722ca85f5be5284312be7e1b",
+            "size": 3803684
+        },
+        "maps\\ww_atrocity.HPB_wpt": {
+            "hash": "335b35bb7d10985edad26ea85b49e7cfc345c1d1ca56e5bc26cbf266be2ee6fd",
+            "size": 5624
+        },
+        "maps\\ww_atrocity.txt": {
+            "hash": "935120f44736bc3b30d2982532af0a9c4f5934ec203e2274eef3aa2786c1f36b",
+            "size": 380
+        },
+        "maps\\ww_checkmate.bsp": {
+            "hash": "97ea6c3ec0d9410185e558447b3ea263502e875e83e66fe1a1d68ed8869aeebc",
+            "size": 2003524
+        },
+        "maps\\ww_checkmate.HPB_wp1": {
+            "hash": "ff046ccb558232c0a86a075389ba8ffdc96413ea83528977ebabccf7cec28f07",
+            "size": 61504
+        },
+        "maps\\ww_checkmate.HPB_wp2": {
+            "hash": "4902d1eba65c3a0ae4fe4454c7c85f8c702b57f3372e0e5ebca62098e6d56abc",
+            "size": 61504
+        },
+        "maps\\ww_checkmate.HPB_wpt": {
+            "hash": "da201b14b1645465dc3ea30e564439fbba61f6776a64954e22b83c7e55d08b46",
+            "size": 2698
+        },
+        "maps\\ww_checkmate.txt": {
+            "hash": "41275b9920069fcd8e255a3d7fab262b3b48dc813f882cc696dfe6b0c34d083b",
+            "size": 1259
+        },
+        "maps\\ww_december.bsp": {
+            "hash": "064c877fdf048e59cc9be57b74ee67768a23eb90e8d4aa1184d1f09f2ca7d829",
+            "size": 3871688
+        },
+        "maps\\ww_december.HPB_wpt": {
+            "hash": "a9ffdcbdf2bed355b2984c373e2148c7777353f6baaae35166e75c653ea5ef31",
+            "size": 4158
+        },
+        "maps\\ww_december.txt": {
+            "hash": "9b1f0705915452de93e41dba14f74e8a9a11a8b0dbb35c8dea7505de50a2f171",
+            "size": 519
+        },
+        "maps\\ww_hiddenforest.bsp": {
+            "hash": "d09ee0a3484eacc9797d61296d096c0b729fe912c795df924ea6a0cdd441a817",
+            "size": 5347524
+        },
+        "maps\\ww_keep.bsp": {
+            "hash": "dde8c577a4dced32eebc5ff5b108a459b17d489144659bec146aca800fba6a94",
+            "size": 3768832
+        },
+        "maps\\ww_keep.HPB_wpt": {
+            "hash": "c1d40e1e3963cebdd8207c998f07b2e7e2dd0c3651c50fb38d972e2c0aebea9e",
+            "size": 2690
+        },
+        "maps\\ww_keep.txt": {
+            "hash": "b790c741042af76632a4ce8b31f4c292ea0afe9812d702615c816682d3777a2a",
+            "size": 499
+        },
+        "maps\\ww_leyline.bsp": {
+            "hash": "ead6dc493d7b570f8231c0ac66f0e7e535118ebab9fb9a7c8fe7f81952f3166a",
+            "size": 4620492
+        },
+        "maps\\ww_leyline.HPB_wpt": {
+            "hash": "1e718c9e462d5d01420114ef373ba1c3c501c8d1cd855bef4f9804d7480589f1",
+            "size": 2444
+        },
+        "maps\\ww_leyline.txt": {
+            "hash": "de668201384c449505ab769e0204a504e52dcb178c14604da267f089fa0e0a0c",
+            "size": 735
+        },
+        "maps\\ww_matrox.bsp": {
+            "hash": "a537c1780ba50e906f7ca37e81b0a1bb87fb8005d03729d5c1b9082e1b2cc2ed",
+            "size": 5915940
+        },
+        "maps\\ww_matrox.txt": {
+            "hash": "8f3b92b46689c4f17773b970c50f42d4e2240f0759af8177ebf0f33e14946121",
+            "size": 735
+        },
+        "maps\\ww_memnate.bsp": {
+            "hash": "5e2c24b8ad2365a777a479a07bee22c0cfa74897722fa3ae6b8faa5775d80285",
+            "size": 3471868
+        },
+        "maps\\ww_memnate.HPB_wpt": {
+            "hash": "b3bcd3cb93e398a2c7664b9e93fbfbacf1408a9e0f338a92ca542b0eb4fcfd6c",
+            "size": 3026
+        },
+        "maps\\ww_memnate.txt": {
+            "hash": "0497fabaa7c8e78d46fdb3599b79321354974c8b3bfb77f7f3131f873181c65f",
+            "size": 921
+        },
+        "maps\\ww_rage.bsp": {
+            "hash": "7a2527b7c547d8df3d0d395667e48f95230f69b1e007c5774d03cf9bb9d9a2cd",
+            "size": 2594868
+        },
+        "maps\\ww_rage.HPB_wpt": {
+            "hash": "63ed8605d91f75431511c05da6d5f66e0f7ebcb5fa6da9e1fdba554c8e184976",
+            "size": 1058
+        },
+        "maps\\ww_ravine2.bsp": {
+            "hash": "67a1fc03c3e4faef94500f7958726aa75f321c2a0005fbd6c58fa8bc5558370c",
+            "size": 5155656
+        },
+        "maps\\ww_ravine2.HPB_wpt": {
+            "hash": "cad0f57abc702dfa10d8bffa89d745a1e54cceb4371a881437474481ad6278c3",
+            "size": 5050
+        },
+        "maps\\ww_ravine2.txt": {
+            "hash": "cdb46791139615698fed085efb2b1c5de27393e6d40078c7bf7c77dd53148ad7",
+            "size": 500
+        },
+        "maps\\ww_shrinkspell.bsp": {
+            "hash": "f9656bc876032ac1183aa9b86996232cf802d7a2beb16b2e950b4c68fecfc7ad",
+            "size": 5730148
+        },
+        "maps\\ww_skytower2h.bsp": {
+            "hash": "2ae9775b1152bc781ac7552fcba369effa03ed5c46539af7fc09ba0031189f20",
+            "size": 2791808
+        },
+        "maps\\ww_volcano.bsp": {
+            "hash": "f8a9175e62513f06602e8424ee944508751560bd9a0d6e4f80a7e0b3e9970b36",
+            "size": 3927588
+        },
+        "maps\\ww_volcano.HPB_wpt": {
+            "hash": "ded42d437bd2d6563594e79f9404e021b16a0325340c886d24627a8eed4df0b2",
+            "size": 1276
+        },
+        "maps\\ww_volcano.txt": {
+            "hash": "ae4a6f3e9d05f7f08da8bd293586d1ba7d30e817f1d9dce385014e131f54d9cf",
+            "size": 452
+        },
+        "maps\\ww_wolteg.bsp": {
+            "hash": "7cc9cff674c6944a37eef89c76184e5f8d806ce1a5e7157e5d4611e5c0e9f92e",
+            "size": 3444956
+        },
+        "maps\\ww_wolteg.HPB_wpt": {
+            "hash": "c3e721398a7abf2a22d340c1bde04d47d076c52190e88aee08b542e17a78f787",
+            "size": 1224
+        },
+        "maps\\ww_wolteg.txt": {
+            "hash": "0e2f3d9ee3657e8631ac0bc4a6655fa1480da5ab4888cebceb910973e8ec410c",
+            "size": 355
+        },
+        "maps\\overviews\\ww_2fort.tga": {
+            "hash": "ea516f3c4241a18ad9e2de6b9f80e1d8e25978754b60c5629c52c70e593b3e52",
+            "size": 2359340
+        },
+        "maps\\overviews\\ww_2fort.txt": {
+            "hash": "43150930168bb40f9cf07cfc5abc5c45afc991629e6008bfb8ec9638bc8a630e",
+            "size": 194
+        },
+        "maps\\overviews\\ww_atrocity.tga": {
+            "hash": "5f2a3f939c88c7f9cce1cb3b9bce9a86ace39e206176919f538a63482c321932",
+            "size": 2359340
+        },
+        "maps\\overviews\\ww_atrocity.txt": {
+            "hash": "7c3395ff078f26c05611c7948d5f30cb26e59589e91a23a1a4fac1bdb20b57c9",
+            "size": 195
+        },
+        "maps\\overviews\\ww_checkmate.tga": {
+            "hash": "92cc92aba75e588ed5f8148a091b114d47235fd029418a3d599da173b4faaaa4",
+            "size": 2359340
+        },
+        "maps\\overviews\\ww_checkmate.txt": {
+            "hash": "6f251e33c731a3938a869c25911b923db8f270cf0481e1c295d42d0565dadddc",
+            "size": 201
+        },
+        "maps\\overviews\\ww_december.tga": {
+            "hash": "a3542e254a6882bef00e9be8ace359b37ae30cd717d28a6003f0faea6be8b978",
+            "size": 2359340
+        },
+        "maps\\overviews\\ww_december.txt": {
+            "hash": "e7759747f35a4d588e92145fbe65489150c9da25d7e97e2f80f14950e2e138d5",
+            "size": 200
+        },
+        "maps\\overviews\\ww_hiddenforest.tga": {
+            "hash": "47598f7e8b7039ab1ac93df03b0a5961193cb1755009240ec1857a1f8ced3b1e",
+            "size": 2359340
+        },
+        "maps\\overviews\\ww_hiddenforest.txt": {
+            "hash": "c59f0ef6ae53bc2d4302e2c6d684e5541a2d3aebeda7e422a9e50dc57649bfeb",
+            "size": 204
+        },
+        "maps\\overviews\\ww_memnate.tga": {
+            "hash": "d1166da249a70400a29d5d05333cba7db4caf15647dd9405278ab155ca4f5016",
+            "size": 2359340
+        },
+        "maps\\overviews\\ww_memnate.txt": {
+            "hash": "cc1dc5bb51f42b6f8c816e22d7da2428761a584320dd14471c7602fb06a72d84",
+            "size": 183
+        },
+        "maps\\overviews\\ww_ravine2.tga": {
+            "hash": "8e88d3f9c6b3de82d655ecb3bd0ca34fdabe22eafef9092a629b6484ba135638",
+            "size": 2359340
+        },
+        "maps\\overviews\\ww_ravine2.txt": {
+            "hash": "76ea0c3fe2a5548d99c4d765833cc683cdad3492ddc423af494b889b38c78f49",
+            "size": 201
+        },
+        "maps\\overviews\\ww_wolteg.tga": {
+            "hash": "748f44ee8c033c838e7099c6bec643e4c5fbf4bd2fa770d2b1703c7890e34950",
+            "size": 2359340
+        },
+        "maps\\overviews\\ww_wolteg.txt": {
+            "hash": "97e2a3276568c0bc4d8a832f36f7cc8ac65283b649b45929653280a1405ba1e7",
+            "size": 182
+        },
+        "media\\gamestartup.mp3": {
+            "hash": "1876d9a6de31b670ad4d97a477d9e996359a5c3c4b4f66f1a754cd9b72d0c6cc",
+            "size": 888832
+        },
+        "models\\backpack.mdl": {
+            "hash": "225692de3a34f03eb129e7e5f5e4fe46cb2995b755f927cdf6c9a5f327a2fac9",
+            "size": 73720
+        },
+        "models\\ball.mdl": {
+            "hash": "ba490284afd12fe36db44f32f71a3e407147781abd78b422cc706913349187d0",
+            "size": 30008
+        },
+        "models\\beanstalk.mdl": {
+            "hash": "4dfbd9e8aafc234484f126e58dc998e8a1beab9e6273608ed5e72bcb1d535031",
+            "size": 102412
+        },
+        "models\\bridge_cart.mdl": {
+            "hash": "07c53c4f95c233af9020cf7052034fe861218d189c341a9c475d4aa6b87f75bc",
+            "size": 556664
+        },
+        "models\\bullrush2x.mdl": {
+            "hash": "e9e48454bd677b3e8217250fae92c4b7f8de1a60e57d00cb6cc73406aab1d5c2",
+            "size": 65740
+        },
+        "models\\bullrush3x.mdl": {
+            "hash": "91ea66f042aefc83c19aefcd0be6d59c60feeb5a86a7514adc31d46f52ed643f",
+            "size": 65740
+        },
+        "models\\bushgibs.mdl": {
+            "hash": "07d9ced7e62ee9023cfa9b1d179e9559dc77cf8df6026f84fa8d1bf911815ebb",
+            "size": 151164
+        },
+        "models\\chess_blk.mdl": {
+            "hash": "64c3e2c2e9c880b6e957315428913fcb71cd63996f4d14c60810e4b83379e5fc",
+            "size": 23720
+        },
+        "models\\chess_wht.mdl": {
+            "hash": "eadd257ca9c09b7e84f2f2e0f02b5dedee58d5a1e744196aee3ffff8fa23d6f9",
+            "size": 23720
+        },
+        "models\\dragontooth.mdl": {
+            "hash": "3374c32c9a7851017c9c27d56c34830b15e7dbe7e7cc9a0dd3603022cb21b61b",
+            "size": 19528
+        },
+        "models\\fissure.mdl": {
+            "hash": "5495847872cce2e3897a5f2e6b118c019c0a3483f47ee749693406b40dece604",
+            "size": 9960
+        },
+        "models\\flag.mdl": {
+            "hash": "4d3ed4967d94326da846f7c1f97a5f9815766f2b0dc14e510e2b7954719bbc61",
+            "size": 211064
+        },
+        "models\\gem.mdl": {
+            "hash": "5899324496ae6d92be9c7e60034b01f2352ae9c4463f031cc577a97045b7583d",
+            "size": 24288
+        },
+        "models\\health.mdl": {
+            "hash": "c435c5ded3c7477b4aa0d1619ee11473736b047c131a4e214bdfd8430a7ca1ca",
+            "size": 22732
+        },
+        "models\\icecage.mdl": {
+            "hash": "99d1615689a4beda7bcf6cd1dd9ae028a14248bd16e02a85fbf45c353f40c1bb",
+            "size": 13532
+        },
+        "models\\icegibs.mdl": {
+            "hash": "7770509489e37776df8cb7ef395f76468acdd12a5155e3556b35bfbd4d6dd671",
+            "size": 10436
+        },
+        "models\\iceshard.mdl": {
+            "hash": "71e877f20689e51e9cb226bf5aa4bda8517e752d497fbbcd41d333d35cdd9bf2",
+            "size": 43340
+        },
+        "models\\jumpboots.mdl": {
+            "hash": "2b4f5ed4b1185c01a41a242154346484dd46d20e8f16636d0accc3b4427ec54e",
+            "size": 17484
+        },
+        "models\\missile.mdl": {
+            "hash": "f1e5b2cbf975fb139287acaa3cfb0271d83504089f1fda583415d98170d345c0",
+            "size": 7260
+        },
+        "models\\player.mdl": {
+            "hash": "5e70b6f3bca244a647244933b472e9ef220d70f726de43d7f479ad9b784e84d5",
+            "size": 565208
+        },
+        "models\\p_seal.mdl": {
+            "hash": "dff0344e6552892350694bd4e68ae0cc909c14ac7573cc5c95d5674166485126",
+            "size": 10172
+        },
+        "models\\p_skullspell.mdl": {
+            "hash": "332709fb9398e6ec2432223de9e273e7e5ff57dc2d542d297a83ec78931083db",
+            "size": 20356
+        },
+        "models\\rollingstone.mdl": {
+            "hash": "0144a71cd4e216f2e7a953cf6195beb63fa387f1c3a89279af34452c222b284b",
+            "size": 21136
+        },
+        "models\\r_armor.mdl": {
+            "hash": "2987d1a235992a3fdec0161046b332a460b2b0d0d2e04b1e2319e23e1013fbdc",
+            "size": 130484
+        },
+        "models\\sentrycrystal.mdl": {
+            "hash": "5899324496ae6d92be9c7e60034b01f2352ae9c4463f031cc577a97045b7583d",
+            "size": 24288
+        },
+        "models\\shield.mdl": {
+            "hash": "adea188596a8a34d64bf7ba5496122dc4aa6cfba6c5b5884c5830d3bf384f900",
+            "size": 130472
+        },
+        "models\\shroom10.mdl": {
+            "hash": "02dee07b26d7691cbb53ac19683f02549c53d7954b33450d36b38bae17b81e95",
+            "size": 29136
+        },
+        "models\\shroom5.mdl": {
+            "hash": "b26d22c754142a125e72c59052e25acb1f8d9507152f0dc0d1bddd8a4a96771a",
+            "size": 29136
+        },
+        "models\\skeleton.mdl": {
+            "hash": "6218fd25cbe634675931184f61537f65a5a1ed3ceb6dd98b5e5ca0858cec6592",
+            "size": 126080
+        },
+        "models\\spellbook.mdl": {
+            "hash": "225692de3a34f03eb129e7e5f5e4fe46cb2995b755f927cdf6c9a5f327a2fac9",
+            "size": 73720
+        },
+        "models\\v_seal.mdl": {
+            "hash": "2b099dba502318b9b1b0cd75511704cc499ec41a6b6b7e2c0673a38336b95184",
+            "size": 18976
+        },
+        "models\\w_satchels.mdl": {
+            "hash": "c396f9c674ccfdc96672e5be09da0320d9823713283f3c206e230438d6333a6c",
+            "size": 27052
+        },
+        "models\\w_shield.mdl": {
+            "hash": "adea188596a8a34d64bf7ba5496122dc4aa6cfba6c5b5884c5830d3bf384f900",
+            "size": 130472
+        },
+        "models\\w_spellbook.mdl": {
+            "hash": "ad0f953b6e31dc777406d1457238d2ab20013187a64104baf6f18a84dc53feea",
+            "size": 201916
+        },
+        "models\\combos\\giantplant.mdl": {
+            "hash": "c5a8d87c6ccc66ab2badf7efc795fe44043f3303c3595e43512b79e37f21979a",
+            "size": 298284
+        },
+        "models\\combos\\netherspirit.mdl": {
+            "hash": "02c3f4b319ff169bcca9bb37681f3492db49df64f2ad5a28617228c2b23dfa70",
+            "size": 101408
+        },
+        "models\\combos\\raisedead.mdl": {
+            "hash": "c414119ffcf21b2f83d51778925ec4a066eeed20782b1305cb1cd730c47540bc",
+            "size": 271248
+        },
+        "models\\combos\\spiritofthedragon.mdl": {
+            "hash": "fac5d62389ef3a70c7294bd29732b8ae87b32167496eb3f02d34f631908eae68",
+            "size": 80684
+        },
+        "models\\combos\\tornado.mdl": {
+            "hash": "a706923e0bd63bcd267c5d476cd235cc7ffc64f7d28a4531792eb25c0874dc1f",
+            "size": 25476
+        },
+        "models\\combos\\v_combospell.mdl": {
+            "hash": "089a215116e629466ee6e0caa57020bed7c6a80d9fb2f68cdc00239938799a58",
+            "size": 259552
+        },
+        "models\\combos\\wombat.mdl": {
+            "hash": "7022daa48209d424a1a3c6a26b73180198ebe76e7f377fbe679fab2bfbf85185",
+            "size": 300204
+        },
+        "models\\hands\\archmage.mdl": {
+            "hash": "8aaa38b2a2422033b6b1765a9b541a9683ebca20b9e78a94b0b6cd04f9051048",
+            "size": 106660
+        },
+        "models\\hands\\bear.mdl": {
+            "hash": "7d298644921cb30bcbe28057dd71ec39daeebbb6c2272fe4bd02260429ea574c",
+            "size": 81044
+        },
+        "models\\hands\\death.mdl": {
+            "hash": "85b4b0dc6f7f0c835225297def86d37d45195b5d5279b1673597c6d73a04e261",
+            "size": 196380
+        },
+        "models\\hands\\dragon.mdl": {
+            "hash": "d5bc1fe0270e04fc41b097abe47192c3f756308f4c5837c688d734847bb50939",
+            "size": 140592
+        },
+        "models\\hands\\earth.mdl": {
+            "hash": "0722763d49242ec976851268b54329774e00c573026d73df8358586d4840419b",
+            "size": 118600
+        },
+        "models\\hands\\fire.mdl": {
+            "hash": "45eecc55e4bdb1224a6c48b57d9c7facd345a0fd2363698ed1d0d810cc4ad0f6",
+            "size": 331744
+        },
+        "models\\hands\\ice.mdl": {
+            "hash": "bc4910ec6d354ecc8ce291b91c4816a07ce33c0b32ae227abd027ec2bfdc7864",
+            "size": 328136
+        },
+        "models\\hands\\life.mdl": {
+            "hash": "47fa053093b4f27e22a66c37d52bed809654eb0b4037603cb7f9f78a6d7f4751",
+            "size": 348412
+        },
+        "models\\hands\\lightning.mdl": {
+            "hash": "6307b76c45fa9fdf38bcee9dd8e29d3ed9dfbecc333044c356c76b6f9b5114fa",
+            "size": 330732
+        },
+        "models\\hands\\nature.mdl": {
+            "hash": "f14bcb9168a3d56537610cd33c3447efd1faeb2fd31f7ad98785b696e55d111e",
+            "size": 100664
+        },
+        "models\\hands\\wind.mdl": {
+            "hash": "63de5bdacb68ab8302971e3caa2d15fc60f7acfdf0bff63e9fcd424c0d57bb77",
+            "size": 340216
+        },
+        "models\\npc\\bird.mdl": {
+            "hash": "82abbe06d90276378765f97665c54cec9c1a8fda54bc9555aa68aa3e103712c2",
+            "size": 57892
+        },
+        "models\\npc\\cocklebur.mdl": {
+            "hash": "cd1d11034e10003dad6f27a39a5d296d873af1cce64bf36ff21a830a9bb53ef9",
+            "size": 137664
+        },
+        "models\\npc\\dragon.mdl": {
+            "hash": "3b716fe59fd11c2f99700377dabfa35aeac63fab9dd7e14e263eb2070a7caf31",
+            "size": 156128
+        },
+        "models\\npc\\goblin.mdl": {
+            "hash": "ee2740a11cb8ae72518ae703892e68172ab5c8c862fdc3773f1b390157c95355",
+            "size": 144000
+        },
+        "models\\npc\\sheep.mdl": {
+            "hash": "bdb3c6000c8bb9788acee3f8ca0df2d576aa48d36216f3a8643f82658d8043e5",
+            "size": 90312
+        },
+        "models\\npc\\skull.mdl": {
+            "hash": "f97200c9f0b47518a6b8822c6115a61e44196d0d8aa833bcdf14c1105ebfc461",
+            "size": 19228
+        },
+        "models\\npc\\spore.mdl": {
+            "hash": "94a99af62f350bf8da531c831ea0cff2fe742ceb481793914c0d648169e04ea9",
+            "size": 4172
+        },
+        "models\\npc\\thornbush1.mdl": {
+            "hash": "c2851dad49b2a7afdc6c8f817f2211a661466fff6aca4ea18ad9a6b1c8b47752",
+            "size": 682956
+        },
+        "models\\npc\\thornbush2.mdl": {
+            "hash": "9be8eb5c5346a2b04580b359b0a05476c20a551155699bf055e4188b5554a817",
+            "size": 696876
+        },
+        "models\\npc\\thornbush3.mdl": {
+            "hash": "5947baf5238558e87fe112e276e9cd96554d913ce830c5826e35c87f2b632f7e",
+            "size": 693596
+        },
+        "models\\npc\\troll1.mdl": {
+            "hash": "5ec2251807b69ae0436e8396287eb63e4eec96dfcefb7ff28880ccaad5e630dc",
+            "size": 177380
+        },
+        "models\\npc\\villager_f.mdl": {
+            "hash": "8ec2daf65e76a00ec29eb75bc42b50b958023273d0a8b15bdfd24eb47eb69f46",
+            "size": 538640
+        },
+        "models\\npc\\villager_m.mdl": {
+            "hash": "56f21ed676cb90ab875909b3060f54f19692ec7e21ab2e95c1bd9318a23d4b34",
+            "size": 375692
+        },
+        "models\\npc\\v_dragon.mdl": {
+            "hash": "2c16bb7923328987d7048d6de6f8bfbcde44e806d58e264042544d9785a062cb",
+            "size": 156176
+        },
+        "models\\npc\\wyvern.mdl": {
+            "hash": "2b28c0b69e75d323c39afb857583913eb69366025d5c6c570d48d47878820e1c",
+            "size": 37528
+        },
+        "models\\player\\archmage.mdl": {
+            "hash": "f4e27368e94f3b829352135b90474397765d2f830a066f1b2e8e82f47cb183e8",
+            "size": 694244
+        },
+        "models\\player\\bear.mdl": {
+            "hash": "7fb35e02c6db6ff0a21c6901ee396b1ca925eab6ce5bcd53ffc8d78f0bdb11ad",
+            "size": 406052
+        },
+        "models\\player\\death.mdl": {
+            "hash": "c7e36dd006a319d190099e3c42e34ff72d1cd5b09466f900043b2a99934870b8",
+            "size": 838532
+        },
+        "models\\player\\dragon.mdl": {
+            "hash": "d12082d8dbfeaf1eb39d5c27d4f453637f0986118f457706289e41f281d1c6dc",
+            "size": 726372
+        },
+        "models\\player\\earth.mdl": {
+            "hash": "6c71447ebd5cf21138cb1a7fab9f8e90607a4263a55bc7678e3adce6052832fa",
+            "size": 694076
+        },
+        "models\\player\\fire.mdl": {
+            "hash": "700e2031fdd0c9098a6d8c41b43cac4880f8efe4e6ca4c31639ebe1caa50f394",
+            "size": 738436
+        },
+        "models\\player\\ice.mdl": {
+            "hash": "9d9ab41fa9c9fb17f27f6ad8793b05f1d4eb7119785e854a19248c84239d1104",
+            "size": 1017608
+        },
+        "models\\player\\life.mdl": {
+            "hash": "4b33b911490b141150eb05c52c35ee0812d4d1df301c11a5aa7f9c1ff14b478f",
+            "size": 690116
+        },
+        "models\\player\\lightning.mdl": {
+            "hash": "9e4b9c956faa764de6202d9e26e0d192accfc63eeb145d4cbe7ffa66c5e1b81b",
+            "size": 677168
+        },
+        "models\\player\\nature.mdl": {
+            "hash": "0c9e7ba6bf9091d0f7ecaa2b347dededdd22a2e9b161831421dbb5ffa1156c16",
+            "size": 694076
+        },
+        "models\\player\\remapped.bmp": {
+            "hash": "f6daf69fe080f69ffc14fb7968d183b8143db5f6ffe0f1410d1ae25ddd2e3f45",
+            "size": 33878
+        },
+        "models\\player\\skeleton.mdl": {
+            "hash": "c414119ffcf21b2f83d51778925ec4a066eeed20782b1305cb1cd730c47540bc",
+            "size": 271248
+        },
+        "models\\player\\wind.mdl": {
+            "hash": "4455d66dbf66ee7a3e86a0277dde69ae1930c61fb13e846adf8b5a6f8bf0b181",
+            "size": 707528
+        },
+        "models\\satchels\\death.mdl": {
+            "hash": "50eb9986697e7b1d8fadfaae1f46ab2e2ff211688c8effe228b0c50eadbbdccf",
+            "size": 24028
+        },
+        "models\\satchels\\dragon.mdl": {
+            "hash": "475e1aff4ca97cb66632d6776c2c55b460cfc4c6da12fbb4bd1ba496e3b3f3e7",
+            "size": 41932
+        },
+        "models\\satchels\\earth.mdl": {
+            "hash": "893d926e73b54bcfaccdf1056092fe1d9947d078d001538fde523ff2bbc6173d",
+            "size": 24028
+        },
+        "models\\satchels\\fire.mdl": {
+            "hash": "0e981fd58bcd01bf464c3eb35afa85a0d1b76377f125b6f5df88f69ddcd09bcd",
+            "size": 23932
+        },
+        "models\\satchels\\ice.mdl": {
+            "hash": "6e15f4da10d0adcb1c1f5cede4fecd52387365cda8857f4170db3c5288342b4b",
+            "size": 23932
+        },
+        "models\\satchels\\life.mdl": {
+            "hash": "b6038a3b02a35a0e8a48950f52026b5af073affddde4d160a016e76def64678f",
+            "size": 24028
+        },
+        "models\\satchels\\lightning.mdl": {
+            "hash": "0fa6bee813fac3f1cd6e733c3c741c7e85299792f08fee1188075776b9bcf575",
+            "size": 24028
+        },
+        "models\\satchels\\nature.mdl": {
+            "hash": "d514edd1368156811d7793027791429a56cb026cab39783d34f9a4cc36f3d064",
+            "size": 24028
+        },
+        "models\\satchels\\poison.mdl": {
+            "hash": "50eb9986697e7b1d8fadfaae1f46ab2e2ff211688c8effe228b0c50eadbbdccf",
+            "size": 24028
+        },
+        "models\\satchels\\wind.mdl": {
+            "hash": "2d4d8b764ab1ca5c7ec46ea8a2a60b53a8a7c3bee170982f8495b15486dced4c",
+            "size": 24636
+        },
+        "models\\seals\\death.mdl": {
+            "hash": "d148de4064ef2dbd414ed3b8674b406fe86530b6b3732666e4c29bb3eebd970c",
+            "size": 333064
+        },
+        "models\\seals\\default.mdl": {
+            "hash": "1caa8071955e0950fd3ca0c5d25fcf21288dcc46a2a54cfb29cd77021fab17eb",
+            "size": 67520
+        },
+        "models\\seals\\dragon.mdl": {
+            "hash": "0e61d70edee5cdc4914d7d7519b9f5de385f85d8a113321cb7c7cc26e2311ddb",
+            "size": 333064
+        },
+        "models\\seals\\earth.mdl": {
+            "hash": "344ce124bb88fe06cd4d1bc3cfca8d47b0adb9679515cf06c2e10c799b5e960f",
+            "size": 333064
+        },
+        "models\\seals\\fire.mdl": {
+            "hash": "d4d4cf228d3a7d82bae3e367ffc53b60a49e9c49eceacf416a45f0f9f255d48d",
+            "size": 333064
+        },
+        "models\\seals\\ice.mdl": {
+            "hash": "4bed1a21c7b10cb5ef9bad4143e0f35ce2a68cb52193951f52a92076dcc69c35",
+            "size": 333064
+        },
+        "models\\seals\\life.mdl": {
+            "hash": "42f0e5dc24bb55659fd345c3677fe74963eb2de968e27e00d8863e1f8db85237",
+            "size": 333064
+        },
+        "models\\seals\\lightning.mdl": {
+            "hash": "ed80dde2c66e70db586acd61fd38f2987c3dba53cad219d9d8df86604b059446",
+            "size": 333064
+        },
+        "models\\seals\\nature.mdl": {
+            "hash": "5ce60ed452a6b0ff2fa83b2465a521960968d4592373ca12111723decbd26224",
+            "size": 333064
+        },
+        "models\\seals\\wind.mdl": {
+            "hash": "ec12fc817517eda721c3d6cb9899049d85beb1e59e4e4b0dab0d0163b577527b",
+            "size": 333064
+        },
+        "models\\staves\\archmage.mdl": {
+            "hash": "93bbdd64d7b5c3f7ef5c1f8d3bccfe7015edb6d7f529ae37bbbc21c37123f9ca",
+            "size": 7988
+        },
+        "models\\staves\\death.mdl": {
+            "hash": "3aea0186efc6042c11adcb32c48bedb3b104fb2bb6187b3bfee652df52505d22",
+            "size": 22200
+        },
+        "models\\staves\\dragon.mdl": {
+            "hash": "beaec8c4bffbdce8f9cc5ce7583da811c72a47897eec87972db9d2e75ddbec2b",
+            "size": 39496
+        },
+        "models\\staves\\earth.mdl": {
+            "hash": "eeb07e17e83e4f241781c824009adceff3063b60e2de45e4a9ee682535098982",
+            "size": 13480
+        },
+        "models\\staves\\fire.mdl": {
+            "hash": "c156b3046302ecc6e8c043e2210ac50609f07bf295c99afd7a9c747ee92cb198",
+            "size": 8848
+        },
+        "models\\staves\\ice.mdl": {
+            "hash": "1a1a483a3071d3ada074d867a40dedbe6babeb2f630e97aff3e6056b480e06d6",
+            "size": 12904
+        },
+        "models\\staves\\life.mdl": {
+            "hash": "64e374e97ee31363fe7b1cbeaf5aba77c7e21a56db3e6b1ec06e8dd4105a3014",
+            "size": 17212
+        },
+        "models\\staves\\lightning.mdl": {
+            "hash": "b0d139ae3c7f2088db440b5af7cce0fc1da399f9151d6358cbc632659e047b12",
+            "size": 10512
+        },
+        "models\\staves\\nature.mdl": {
+            "hash": "33a8be76e2b058d5246c42403031c6635331ce3738368ec0df06b3da60802669",
+            "size": 10156
+        },
+        "models\\staves\\wind.mdl": {
+            "hash": "12089b79a7a8dc36818e7bf1cfc6d07d979869776eeaab8fb1865fbe5048127b",
+            "size": 24372
+        },
+        "resource\\GameMenu.res": {
+            "hash": "d2b15a66b62e6582137b1b087ad8581541f8802fdfe7e5befab266013c20c9d3",
+            "size": 1276
+        },
+        "resource\\game_menu.tga": {
+            "hash": "5531fcaff8ac975317a5740561e9edf042d065e47c4755d6bddb07da73b95e66",
+            "size": 23084
+        },
+        "resource\\game_menu_mouseover.tga": {
+            "hash": "902daab43ef6a7e1b034dc1906a9e8e765598c69a7a5a534dccc9a266e501b92",
+            "size": 23084
+        },
+        "resource\\icon_steam.tga": {
+            "hash": "893aef1e75fae611128fa03195ddf92a20d4eb7adbc731b64944a10acfd95a6c",
+            "size": 1068
+        },
+        "resource\\icon_steam_disabled.tga": {
+            "hash": "099efb2f9403e2ed61a15d32bbde48dd2223e3df2d22818c96be14b76862bbe7",
+            "size": 1068
+        },
+        "resource\\steam_menu.tga": {
+            "hash": "f1b4db87953d6e69f828d1c1ff64cf2a9c49ac7985c14126ccbd6e3e1d18003f",
+            "size": 25132
+        },
+        "resource\\steam_menu_mouseover.tga": {
+            "hash": "9c68a72c11c929349fdd88021262467f3f442b39c4654456d48050dfa2646581",
+            "size": 25132
+        },
+        "resource\\TrackerScheme.res": {
+            "hash": "d9bcc613a39e06e25709be422dac758d9a2a541f6d453ffa65abeed496d88d9d",
+            "size": 12627
+        },
+        "resource\\background\\800_1_a_loading.tga": {
+            "hash": "85e01db5d1d6df0087896faa047e4474db6ca2e9bd84e884004e4ed7f0765fa5",
+            "size": 196652
+        },
+        "resource\\background\\800_1_b_loading.tga": {
+            "hash": "439630f722c00355e4b5f65e12f286d706bc0ab2f9e7ac769e137a9d09a8aa80",
+            "size": 196652
+        },
+        "resource\\background\\800_1_c_loading.tga": {
+            "hash": "b3c419a4565a0af866ea20cc0ff828fc1cd194b31e90444aaddc7866f3493c85",
+            "size": 196652
+        },
+        "resource\\background\\800_1_d_loading.tga": {
+            "hash": "470a127b56732b6fc26287cca74e8515fe5d14b1c5218a35398b9e6b412f0f3a",
+            "size": 24620
+        },
+        "resource\\background\\800_2_a_loading.tga": {
+            "hash": "c16c9a09faa862e8720aac46bc825a1ec6b2634965a9450f44e88f2c469ba423",
+            "size": 196652
+        },
+        "resource\\background\\800_2_b_loading.tga": {
+            "hash": "9b31da15144c911322cff9136aad400813abcdc2a76575ffc3575bc94cc9541a",
+            "size": 196652
+        },
+        "resource\\background\\800_2_c_loading.tga": {
+            "hash": "0b1e60df2cc9a7b87db4355e9339446d40e8b4536e8f28b1a904f4b253f8e776",
+            "size": 196652
+        },
+        "resource\\background\\800_2_d_loading.tga": {
+            "hash": "70539c2a411ddcd5fd963f29dcec60896d8f6a54cd1ad94d99b8c9ad3579fc48",
+            "size": 24620
+        },
+        "resource\\background\\800_3_a_loading.tga": {
+            "hash": "772bdd9b4bf797c552070df64b61f915ab2850a50bb6312105971750864d0df2",
+            "size": 67628
+        },
+        "resource\\background\\800_3_b_loading.tga": {
+            "hash": "69b9e48c4d732baa3b182de10071bc1ace5b3075a36d6cd4379b85190b3b8087",
+            "size": 67628
+        },
+        "resource\\background\\800_3_c_loading.tga": {
+            "hash": "8e6cb6ad7bbcb1d4ae8645667d0c4fc6fdcca85e7e016d9d4d0cb72dc59a6168",
+            "size": 67628
+        },
+        "resource\\background\\800_3_d_loading.tga": {
+            "hash": "93980f4f698cb73d5e5b1e23d4f14dbb413ab92bca7d837f55ff8c6d02dfad0e",
+            "size": 8492
+        },
+        "schemes\\1024.txt": {
+            "hash": "c3f4cfd778614b50ea49647ac2d6ed945e33cf068bbc3401d1abb113563a55ae",
+            "size": 1143
+        },
+        "schemes\\1152.txt": {
+            "hash": "ace52bf8361cf1c427c31a9c09d435ea3b3eabdef5912a5d35c603dadb62074a",
+            "size": 1155
+        },
+        "schemes\\1280.txt": {
+            "hash": "388bd700a62b68b6e650bdc723ff2986614faf87d70acc8fe0bb0e969ac338ce",
+            "size": 1143
+        },
+        "schemes\\1600.txt": {
+            "hash": "b654aee28b84cdf82f40228d297897e9c97fea7252eb7c37b1ad94f94f922288",
+            "size": 1144
+        },
+        "schemes\\320.txt": {
+            "hash": "d63b9314eac85a1f8c9f4c7ff3ffe70e28f74404485526872d4d420a6ffa4937",
+            "size": 1183
+        },
+        "schemes\\400.txt": {
+            "hash": "90327c91ce4e27c3f55ddd650e1532c627fab9aeaa6f080082a6f9a31c548751",
+            "size": 1148
+        },
+        "schemes\\512.txt": {
+            "hash": "e3c485f86a2c2dbe4187c4f680df9d1fc3dfb8504ac95295d65b365d52cb75a2",
+            "size": 1148
+        },
+        "schemes\\640.txt": {
+            "hash": "27e1a87c00b476e7d401ef0e7879cd80902c7765233c7d2a1a054c69a86d7681",
+            "size": 1143
+        },
+        "schemes\\800.txt": {
+            "hash": "27e1a87c00b476e7d401ef0e7879cd80902c7765233c7d2a1a054c69a86d7681",
+            "size": 1143
+        },
+        "sound\\materials.txt": {
+            "hash": "e66d3a36dd1d206d2566fca03186c37c9e9d01cf7a903bbdb62502ad7a2ceeef",
+            "size": 5935
+        },
+        "sound\\sentences.txt": {
+            "hash": "8e9c2c86403bb8f84bc7d6fa4bfd469c97ecc215791be9facefd232c34cc3574",
+            "size": 3178
+        },
+        "sound\\ambience\\bell.wav": {
+            "hash": "47a6d0b7313948952f2238baba85542631ed96df7b9b663f2c697f114ccf9457",
+            "size": 45300
+        },
+        "sound\\ambience\\burn.wav": {
+            "hash": "66a1be805355f7ed0bbfe2b192cd35214d9b0c284d5440723ef802cc02f271c4",
+            "size": 31882
+        },
+        "sound\\ambience\\capture.wav": {
+            "hash": "e957a0c0e545fb1c6a38dc3d4cdc5fcfd2d115f7f616f658a964e06dbf401940",
+            "size": 40130
+        },
+        "sound\\ambience\\disco.wav": {
+            "hash": "60991dc90d204ef37a079b184f7070e330abd12d03c2b3edfd24630d91a12717",
+            "size": 182306
+        },
+        "sound\\ambience\\goal_1.wav": {
+            "hash": "7f171f0d73325afd60a0f2618a73b1bdaf75890a30d8c77caabdf29b9b6a53e3",
+            "size": 39560
+        },
+        "sound\\ambience\\rwind1.wav": {
+            "hash": "293e77d363bf07fc73726edebdc2da23204629e74ac7ed3977b5b8a667c6237d",
+            "size": 97820
+        },
+        "sound\\ambience\\siren.wav": {
+            "hash": "1b9fffc7f0c43f8dc6b584883ebe08355cf1108300f4f595e42623f4a5895b79",
+            "size": 125752
+        },
+        "sound\\ambience\\thunder.wav": {
+            "hash": "f0a5fe49ca691bf3f2242ed6f7f85829788880143edc86c1de7ee3234753f1cd",
+            "size": 189700
+        },
+        "sound\\ambience\\water_flowing3.wav": {
+            "hash": "c8d01e24e229f36844b21d2ee7e3dcfa114d246bd2aca2bcc52135bec7042330",
+            "size": 43604
+        },
+        "sound\\cauldron\\birds2.wav": {
+            "hash": "bf48be98ed302f17fec319055e386c301b6cf5e579135be913f105a5d391a9cc",
+            "size": 35488
+        },
+        "sound\\cauldron\\birds4.wav": {
+            "hash": "6b363f0d8d09f7379f85fbd358cf36a58773455cea74b960d726e1d7ddad589f",
+            "size": 62242
+        },
+        "sound\\cauldron\\birds5.wav": {
+            "hash": "51048322f7d63dc1c3bb3ae19f1cf20b00c77b0288f5c2e5fc4c1cb00cf27089",
+            "size": 25720
+        },
+        "sound\\cauldron\\birds6.wav": {
+            "hash": "178485a99f8cb844726615c92f2feedc23d17ba696cfee3e3633262727f8a9dd",
+            "size": 31992
+        },
+        "sound\\cauldron\\birds7.wav": {
+            "hash": "5ca2035c22c37af3369e174f201596a7ee5fd262a7d378d7c4304e3e7f242b72",
+            "size": 14532
+        },
+        "sound\\cauldron\\birds9.wav": {
+            "hash": "9387225533cb23df954a50e799e29e579b57e74ee3403d4472eff9da195f9a3e",
+            "size": 84126
+        },
+        "sound\\cauldron\\bubble_mw.wav": {
+            "hash": "5665d0cbd497e619d1f2f8a32f36305ae433b5b0dfe60938d1aeb368e650d7e9",
+            "size": 56948
+        },
+        "sound\\cauldron\\Mdnr.wav": {
+            "hash": "75d220db0b222d1d62642ac6b45932d5a0a41b9ef191aabcfa7a30ff99c124b1",
+            "size": 88349
+        },
+        "sound\\cauldron\\thunder.wav": {
+            "hash": "8bfb317798a8ffffb5a6bd956b1606e335ec01f4347efcbeb1d259b8f737630b",
+            "size": 73868
+        },
+        "sound\\cauldron\\toad.wav": {
+            "hash": "234044da40842e8e55531e7faf4a082530c3d733b82170b824877269f4e3a948",
+            "size": 3982
+        },
+        "sound\\cauldron\\wolfhowl02.wav": {
+            "hash": "dd8dd10a0beffa6cf2bb62596b1d9f04abf5a4ee94e51e64f9978cf6238c8466",
+            "size": 61308
+        },
+        "sound\\cauldron\\wrewolf2.wav": {
+            "hash": "774d6658fbd9c49277c1bf5deadf4f92b338b1912b1b3da44e1c2362ef70c956",
+            "size": 68879
+        },
+        "sound\\common\\wpn_hudon.wav": {
+            "hash": "772a4d9c35d523266d1ad83881caa661ca2bb02f701438dee5e3fdc590573171",
+            "size": 84848
+        },
+        "sound\\common\\wpn_moveselect.wav": {
+            "hash": "c245c8c53c942ca4d786238752c85d2f461124f35ce01c1027f08ac44ac0cd42",
+            "size": 37596
+        },
+        "sound\\common\\wpn_select.wav": {
+            "hash": "19c24870df29d43225e03fb05bf268eada8f58dfa3423836821de10ffcd289df",
+            "size": 13572
+        },
+        "sound\\items\\ammopickup1.wav": {
+            "hash": "8da1d6e4d17faf3a86930251e299a4947b96e4aecb69fa5d5882e3f8c4f21e3d",
+            "size": 15660
+        },
+        "sound\\items\\ammopickup2.wav": {
+            "hash": "8da1d6e4d17faf3a86930251e299a4947b96e4aecb69fa5d5882e3f8c4f21e3d",
+            "size": 15660
+        },
+        "sound\\items\\gunpickup2.wav": {
+            "hash": "d984a22360c450748debf212ac44062fb8855ec02dac6ca9cc377f8c5937f803",
+            "size": 61934
+        },
+        "sound\\items\\gunpickup3.wav": {
+            "hash": "208be02445e119c209468f65b825de1052caaa32bc8faa6ce8b5e602578bd58d",
+            "size": 54530
+        },
+        "sound\\items\\itembk2.wav": {
+            "hash": "3e1d9669de3c5fb71f625d2198e2d3045ceb355b063691a9390ecf9c814df232",
+            "size": 9567
+        },
+        "sound\\items\\medshot4.wav": {
+            "hash": "6ef6758eb4d0017ce177db7de5c7ac0b005e416919acffc9363a1077adb11748",
+            "size": 15588
+        },
+        "sound\\items\\smallmedkit1.wav": {
+            "hash": "c89d28ff4a8506d195a22186e1451067f9c3899cb365cfa884949a6fc95f15d6",
+            "size": 78380
+        },
+        "sound\\items\\suitchargeok1.wav": {
+            "hash": "4a85eca0fa11c85d18fb4b8eebe58757466ff074371e3b0dc62ee40daaaaea86",
+            "size": 26148
+        },
+        "sound\\misc\\talk.wav": {
+            "hash": "094018b329e6d9146f79a60a542246713f0d2ab65ed92f30fbc6e57ed1a3d3fe",
+            "size": 20806
+        },
+        "sound\\monster\\dragon\\dragon_attack1.wav": {
+            "hash": "eb3c00996d800a7d629e6ee44b2ca08f20bc9053d87d9436d43d37907d9098a3",
+            "size": 8604
+        },
+        "sound\\monster\\dragon\\dragon_die1.wav": {
+            "hash": "a89a59e47cf15983089f04c3e7b56a72c5f35a4b69a69770b34db58512a61b0f",
+            "size": 6902
+        },
+        "sound\\monster\\dragon\\dragon_fire.wav": {
+            "hash": "732d86153e1f27e43c9560d5fc9fff1bee1c2d4e52f09a0d92ea2860eb9f22fa",
+            "size": 31428
+        },
+        "sound\\monster\\dragon\\dragon_fly1.wav": {
+            "hash": "7b65e4020f0da2a5a92bc7c8653fb54e45179299366c1c7ff830faf10d7e4709",
+            "size": 24056
+        },
+        "sound\\monster\\dragon\\dragon_idle1.wav": {
+            "hash": "99ba60b58c79a36674e9e73cc27c29935ad27daa8b55479dab76fcbf5a6e5a28",
+            "size": 9572
+        },
+        "sound\\monster\\dragon\\dragon_pain1.wav": {
+            "hash": "4bdcfa8c6092eb9c269e28066bb04e4858191ea38f88a545a34b67e5fe701fc1",
+            "size": 9728
+        },
+        "sound\\monster\\sheep\\baa.wav": {
+            "hash": "5f33248e98324010e6df999a6e50a288c3c02e56d0dac356e5ca27162eb2704a",
+            "size": 51246
+        },
+        "sound\\monster\\skeleton\\bonethrow.wav": {
+            "hash": "4c94101632fdd7898dc824ca4a583d0a7c937e5d60c8017f8f7c66e5aad0d263",
+            "size": 3572
+        },
+        "sound\\monster\\skeleton\\skfollow.wav": {
+            "hash": "8b24ebc39a0fccfe8146114848bc3ee1eb1595703c53aa97d3f3139e134a80c7",
+            "size": 53592
+        },
+        "sound\\monster\\skeleton\\skgibs.wav": {
+            "hash": "56cf469393f64879d1d42d51906afc45118d2fd22402a62d344310deb83c0fd1",
+            "size": 20920
+        },
+        "sound\\monster\\skeleton\\skwait.wav": {
+            "hash": "735d6e4afab5f3a56edd4adaf3580697a892be1d74acf839b5c84a78d721fecc",
+            "size": 64185
+        },
+        "sound\\monster\\thornplant\\sporehit.wav": {
+            "hash": "8228201f74255a960b8115f5dd3df929b0f8711f1ad481fdbe93e89d391be2b0",
+            "size": 26722
+        },
+        "sound\\monster\\thornplant\\thornplant_shoot.wav": {
+            "hash": "2453fa506fe2c3fdbe592c70f4477217f29225fc3a3883d41c4f216bdba57a57",
+            "size": 14476
+        },
+        "sound\\monster\\wombat\\wbattack1.wav": {
+            "hash": "dfdd2d8d9b390df6e528e3d1a187157837f22e8d24bcb25e056b6c4f182246e8",
+            "size": 13620
+        },
+        "sound\\monster\\wombat\\wbattack2.wav": {
+            "hash": "0401f139642219222a4cf1d569f8f66ef2ee28032bdf3c407157b0a316c877b7",
+            "size": 13902
+        },
+        "sound\\monster\\wombat\\wbattack3.wav": {
+            "hash": "a90ea76b91b406911722a354ee9b3b0d9365200aaf649fdb920b1c09124344ab",
+            "size": 15656
+        },
+        "sound\\monster\\wombat\\wblaunch.wav": {
+            "hash": "c5f3bd5862ff2037669e03bfaa3c862b08e036d4b0269c694da92d7c150b1f69",
+            "size": 22200
+        },
+        "sound\\monster\\wombat\\wbstrength.wav": {
+            "hash": "18497c563b69de8b7d321fefc702409e66a1a32b3ffd081c95d291ae6edded6b",
+            "size": 14758
+        },
+        "sound\\npc\\bird.wav": {
+            "hash": "9d3b66703237ae4bb0c2010fade6af163f69dfea519f4f2ea9c20fefe11588eb",
+            "size": 18312
+        },
+        "sound\\npc\\cocklebur.wav": {
+            "hash": "fa3a87d00245624d471f2b84a99539b14963d7c613c9f4be48d4984d1ace3187",
+            "size": 2726
+        },
+        "sound\\npc\\skull.wav": {
+            "hash": "73120d36d8a88c36dd30da4d7270b295e28ff6202501551518cdb8bdcff491f4",
+            "size": 55530
+        },
+        "sound\\npc\\skull_poof.wav": {
+            "hash": "03e4c867a81a159c624c1514d4c92645164f6d17e43cd8ebb2a3d976ec46f9b2",
+            "size": 39034
+        },
+        "sound\\npc\\spore.wav": {
+            "hash": "8228201f74255a960b8115f5dd3df929b0f8711f1ad481fdbe93e89d391be2b0",
+            "size": 26722
+        },
+        "sound\\npc\\thornbush_attack.wav": {
+            "hash": "c9e1972469fbda51351e2549f2bb4991406421decb24e31366681aaa90daeba7",
+            "size": 6602
+        },
+        "sound\\npc\\thornbush_upgrade1.wav": {
+            "hash": "f9da57d7fcd898f3930f5caf6811cae73938bc86179aa9df156775936d4789d0",
+            "size": 71580
+        },
+        "sound\\npc\\thornbush_upgrade2.wav": {
+            "hash": "a14589e0a2cbd2363581318fa5e8a6806a3edfacb608e70800c838305e7e18d1",
+            "size": 49722
+        },
+        "sound\\npc\\thornbush_upgrade3.wav": {
+            "hash": "92434e29376e3c893e12a3c2bfdc1138a73afdc389e40396194cad9f30cc5f57",
+            "size": 50042
+        },
+        "sound\\npc\\wyvern.wav": {
+            "hash": "0f972921ba0b3f9bec5782b1059bca921920d0004b7cce2a85b19300ebd2d512",
+            "size": 133242
+        },
+        "sound\\npc\\goblin\\claw1.wav": {
+            "hash": "fcee49297f976e21bc5cea114737490a2a004cad9cd426ac3d8a6ac6b304e352",
+            "size": 18246
+        },
+        "sound\\npc\\goblin\\claw2.wav": {
+            "hash": "2bf234b696153a36b52c0b50dae60fa02dd1e3cb0348f6e298362e37890f1dd8",
+            "size": 21194
+        },
+        "sound\\npc\\goblin\\claw3.wav": {
+            "hash": "2453fa506fe2c3fdbe592c70f4477217f29225fc3a3883d41c4f216bdba57a57",
+            "size": 14476
+        },
+        "sound\\npc\\goblin\\die1.wav": {
+            "hash": "c2306d7f9fa58f99961c347b06ef26305b99ac43ec27b2b222962e1f3a9ccce9",
+            "size": 15558
+        },
+        "sound\\npc\\goblin\\die2.wav": {
+            "hash": "14deecb570d1e315b772713d54b7250043bb0dd5f3d5538cd0636e39a523c54f",
+            "size": 5402
+        },
+        "sound\\npc\\goblin\\miss1.wav": {
+            "hash": "6bf27d007a2b5798593b8da66489acb0f458ada8535f276cb3fd0272a43caef2",
+            "size": 3154
+        },
+        "sound\\npc\\goblin\\miss2.wav": {
+            "hash": "4c94101632fdd7898dc824ca4a583d0a7c937e5d60c8017f8f7c66e5aad0d263",
+            "size": 3572
+        },
+        "sound\\npc\\goblin\\pain1.wav": {
+            "hash": "e7ac56b93ce160283001823ef1a85160bb5a878860b37e4ed451bea2baefdd66",
+            "size": 12920
+        },
+        "sound\\npc\\goblin\\pain2.wav": {
+            "hash": "de7e75a9e2a10f7cd459c047a1aee1770dac527dcd96d5cb371a0c3724d5265e",
+            "size": 8548
+        },
+        "sound\\npc\\villager\\pain1_f.wav": {
+            "hash": "4897680a904731abfcd0333cf524befe4cf36d4b5684e656ab70e6c17ef994c2",
+            "size": 5986
+        },
+        "sound\\npc\\villager\\pain1_m.wav": {
+            "hash": "4897680a904731abfcd0333cf524befe4cf36d4b5684e656ab70e6c17ef994c2",
+            "size": 5986
+        },
+        "sound\\npc\\villager\\pain2_f.wav": {
+            "hash": "68b84972321f38a82991762e6af4b4d2955ff3e8068453b61976c15bf1792cc5",
+            "size": 10570
+        },
+        "sound\\npc\\villager\\pain2_m.wav": {
+            "hash": "68b84972321f38a82991762e6af4b4d2955ff3e8068453b61976c15bf1792cc5",
+            "size": 10570
+        },
+        "sound\\npc\\villager\\pain3_f.wav": {
+            "hash": "581f8f73688698a13910c97604969542893735af5c8137fee028e6f4142e44d2",
+            "size": 6228
+        },
+        "sound\\npc\\villager\\pain3_m.wav": {
+            "hash": "581f8f73688698a13910c97604969542893735af5c8137fee028e6f4142e44d2",
+            "size": 6228
+        },
+        "sound\\npc\\villager\\pain4_f.wav": {
+            "hash": "2497b4028834677077c9c1ccbeb3af28f5333f636bcc576d46ceb32e021ccb07",
+            "size": 3950
+        },
+        "sound\\npc\\villager\\pain4_m.wav": {
+            "hash": "2497b4028834677077c9c1ccbeb3af28f5333f636bcc576d46ceb32e021ccb07",
+            "size": 3950
+        },
+        "sound\\npc\\villager\\pain5_f.wav": {
+            "hash": "3197e6ba6d6c38cbc6a2b9403f2ca561441f945ebca2c63f73acc8e4f891702c",
+            "size": 3412
+        },
+        "sound\\npc\\villager\\pain5_m.wav": {
+            "hash": "3197e6ba6d6c38cbc6a2b9403f2ca561441f945ebca2c63f73acc8e4f891702c",
+            "size": 3412
+        },
+        "sound\\player\\bear_death.wav": {
+            "hash": "a91930bc0ce122dc9ad6258d9f073ad51e7305b4a48d897ae8a50ce553132107",
+            "size": 125426
+        },
+        "sound\\player\\bear_jump.wav": {
+            "hash": "e1b8df1d8225991dde6e5af68e15eee88bbf0498c536766e4f46c1d0d20de3bb",
+            "size": 13628
+        },
+        "sound\\player\\bear_morph.wav": {
+            "hash": "4f5da7395f597b7c17186df9d7237995ef1bbfc44084305879c6c7e85376fd8d",
+            "size": 49010
+        },
+        "sound\\player\\bear_pain.wav": {
+            "hash": "37e561226151a3d4ba98ef515c78c16db80173fa6b3950866bbb2816c2615d63",
+            "size": 53684
+        },
+        "sound\\player\\bear_taunt.wav": {
+            "hash": "874786c7d03248412aeddb6a4b54f6f48ae2a588aa56290bad6c55549b69d8d0",
+            "size": 186232
+        },
+        "sound\\player\\death1.wav": {
+            "hash": "6d7601c1372214461fa81fc58bc4fd5e3df638d1e791f2568f3a5efed6875549",
+            "size": 79112
+        },
+        "sound\\player\\death2.wav": {
+            "hash": "8a464155939e98ca5b7415a84ebcda233b8501ebb15f8b99279c487f33d3c117",
+            "size": 66056
+        },
+        "sound\\player\\death3.wav": {
+            "hash": "79875969b7d6516722cb46641d38f96f7cb6a8bb3bcfd6d7341ec352ecf522c3",
+            "size": 70280
+        },
+        "sound\\player\\elec_death.wav": {
+            "hash": "537a610a66c2ac4b5bfced0a93d0eb59cf8ebaf6281218856ec993b15ff218ac",
+            "size": 89480
+        },
+        "sound\\player\\elec_pain.wav": {
+            "hash": "1df760e2a654e7d6303b820b0b147461d189af63135abd5997b4721ebba89c68",
+            "size": 30728
+        },
+        "sound\\player\\fall_pain1.wav": {
+            "hash": "7cb374da3f390efc2cd240f0fbf316288a6302139bea4a33b8b9f7b3d4cc43d4",
+            "size": 28936
+        },
+        "sound\\player\\fall_pain2.wav": {
+            "hash": "71dfa8f927faa82ee7fe21ccd40d99148cca67659cd9877df5e3849031ea7d4a",
+            "size": 37832
+        },
+        "sound\\player\\fall_pain3.wav": {
+            "hash": "71dfa8f927faa82ee7fe21ccd40d99148cca67659cd9877df5e3849031ea7d4a",
+            "size": 37832
+        },
+        "sound\\player\\fire_death.wav": {
+            "hash": "9aa523cbb42a8a25c8afd63b41339c3ef9e9f83868a35fac2229ec915ad78151",
+            "size": 195976
+        },
+        "sound\\player\\fire_pain.wav": {
+            "hash": "4a3abe0f6e7186adc216dd60a2c5c1f85404de233a63c61bb2d5a6fd778140f7",
+            "size": 132232
+        },
+        "sound\\player\\h2o_death.wav": {
+            "hash": "889b1aefc3229ec8b5a82c34829b0f9e9cd660903c9d046e5ad328997df4ec4b",
+            "size": 90110
+        },
+        "sound\\player\\h2o_pain.wav": {
+            "hash": "aae44fbd488f90c9b1a7a7e7f04ae1462c3c8d45a9b716a7d13cdb431e3547ed",
+            "size": 49172
+        },
+        "sound\\player\\health1.wav": {
+            "hash": "f590b11afd8c6203504f0f7a3fe86e6d8d4784a8b537131e4c91762593d44ff8",
+            "size": 52424
+        },
+        "sound\\player\\health2.wav": {
+            "hash": "1868f5c2d160a1a3d9dee8a8645f28df974008e36112fb71b2a0f2e8abdf43e9",
+            "size": 74760
+        },
+        "sound\\player\\health3.wav": {
+            "hash": "4224db26612e5a56ffcd91304975fe6b987c002c54bb1c1e8a32a18fb1b8fa71",
+            "size": 110216
+        },
+        "sound\\player\\jump.wav": {
+            "hash": "bf09b0e7d9f6f5c77a13cff226fd7fdcd9e54cae059aef91b40a71c871b25573",
+            "size": 8584
+        },
+        "sound\\player\\pain1.wav": {
+            "hash": "7cb374da3f390efc2cd240f0fbf316288a6302139bea4a33b8b9f7b3d4cc43d4",
+            "size": 28936
+        },
+        "sound\\player\\pain2.wav": {
+            "hash": "71dfa8f927faa82ee7fe21ccd40d99148cca67659cd9877df5e3849031ea7d4a",
+            "size": 37832
+        },
+        "sound\\player\\pain3.wav": {
+            "hash": "71dfa8f927faa82ee7fe21ccd40d99148cca67659cd9877df5e3849031ea7d4a",
+            "size": 37832
+        },
+        "sound\\player\\pl_snow1.wav": {
+            "hash": "7aed23807ebe98cebaaa890d66972133256015338b90dca185c4bdc085ad5824",
+            "size": 9132
+        },
+        "sound\\player\\pl_snow2.wav": {
+            "hash": "a79731016352758931fcdbcc955bf81d0fdfbbb454e0c6b3df340e28b02feee9",
+            "size": 7148
+        },
+        "sound\\player\\pl_snow3.wav": {
+            "hash": "bcbdc9db0321ca9e4ee7db0c8a9eeac1169a2e7ccfed71916251d85118521803",
+            "size": 6124
+        },
+        "sound\\player\\pl_snow4.wav": {
+            "hash": "1e2a981684069bb242a5256ee8bada10e936abe2f8df353388fff1c1c3fec233",
+            "size": 9132
+        },
+        "sound\\player\\poison1.wav": {
+            "hash": "bf540a65bc1a0ad7d207bc25d12ef08f6346b6ff9b1b69e974642bb3b0526455",
+            "size": 40456
+        },
+        "sound\\player\\poison2.wav": {
+            "hash": "562353b0778faeb532a869cc54f69aebd51a06ab8ff449852bc3b5e195c08d64",
+            "size": 291464
+        },
+        "sound\\player\\poison_death.wav": {
+            "hash": "3e1e64e5096395b6ceb44858bc9c93cf3db059581f5ed38d3552acd6bf4a30fe",
+            "size": 221320
+        },
+        "sound\\player\\poison_pain.wav": {
+            "hash": "739d42fac4a251a5085033692671212ae6159d46e4d938097aedd40e958cde51",
+            "size": 76424
+        },
+        "sound\\player\\taunt1.wav": {
+            "hash": "7f1383f2cab37217be070569cf24d9110d15fed636dced48085b5897e6c94185",
+            "size": 65928
+        },
+        "sound\\player\\taunt2.wav": {
+            "hash": "b69dae202b4228f57490dc7dd83bab2fe1a9b080a207a07b894226e82b4b16ac",
+            "size": 50504
+        },
+        "sound\\player\\taunt3.wav": {
+            "hash": "48a2fb84b6530939475936d11e2181fd070717bd70adfed645ae5445f958fb2e",
+            "size": 56840
+        },
+        "sound\\player\\taunt4.wav": {
+            "hash": "069c38051736be94cd774076ce704cec72ffe9f6ac00030a051716da08ad72d5",
+            "size": 71816
+        },
+        "sound\\player\\taunt5.wav": {
+            "hash": "99bda09fa75671b40f5a4f24fbd508bce1fe03b027e489b807e38d0e2e1c5971",
+            "size": 78216
+        },
+        "sound\\satchels\\death.wav": {
+            "hash": "8228201f74255a960b8115f5dd3df929b0f8711f1ad481fdbe93e89d391be2b0",
+            "size": 26722
+        },
+        "sound\\satchels\\dragon.wav": {
+            "hash": "52f4f955d738a6d32a236f81372835c9b132cce0afe685449e9753ac15423575",
+            "size": 6596
+        },
+        "sound\\satchels\\earth.wav": {
+            "hash": "fa8ea4a6fd4936d961447bb8ec4ad56a791d2c9a5fc6fddee2c1a53adbd0f18c",
+            "size": 9578
+        },
+        "sound\\satchels\\fire.wav": {
+            "hash": "944cd5903cc8b6599ce312213dee93af035190057f3139ce8c51a5e6914a1a9f",
+            "size": 59200
+        },
+        "sound\\satchels\\ice.wav": {
+            "hash": "55714be5fb80105dbc68fd3302e0f52814c5c8bea9f72758dd27d41fe00f8b25",
+            "size": 40500
+        },
+        "sound\\satchels\\life.wav": {
+            "hash": "df074520dd09f3b12ecfbf69300c6ec45c8b882eba077192161ce003e4320c77",
+            "size": 29296
+        },
+        "sound\\satchels\\lightning.wav": {
+            "hash": "e957a0c0e545fb1c6a38dc3d4cdc5fcfd2d115f7f616f658a964e06dbf401940",
+            "size": 40130
+        },
+        "sound\\satchels\\nature.wav": {
+            "hash": "936b6fbfd3c0b6c6158e60abae8404a69c43a28b3bf0a664dfb79fa496ed6e7c",
+            "size": 51230
+        },
+        "sound\\satchels\\wind.wav": {
+            "hash": "178c8148a4b6a593bd21cd5873217ba2be3e6cf73c50f7c7b4dd105717cfc715",
+            "size": 90112
+        },
+        "sound\\seals\\death.wav": {
+            "hash": "8228201f74255a960b8115f5dd3df929b0f8711f1ad481fdbe93e89d391be2b0",
+            "size": 26722
+        },
+        "sound\\seals\\dragon.wav": {
+            "hash": "4bdcfa8c6092eb9c269e28066bb04e4858191ea38f88a545a34b67e5fe701fc1",
+            "size": 9728
+        },
+        "sound\\seals\\earth.wav": {
+            "hash": "fa8ea4a6fd4936d961447bb8ec4ad56a791d2c9a5fc6fddee2c1a53adbd0f18c",
+            "size": 9578
+        },
+        "sound\\seals\\fire.wav": {
+            "hash": "66a1be805355f7ed0bbfe2b192cd35214d9b0c284d5440723ef802cc02f271c4",
+            "size": 31882
+        },
+        "sound\\seals\\ice.wav": {
+            "hash": "111cea7d4bc08c3a3cabbec2a27e65d0d7788877d9a5ad79931a218293e90650",
+            "size": 79270
+        },
+        "sound\\seals\\life.wav": {
+            "hash": "7fea4cda8c69284ce2ba0f2554119591bdb1fe125b08ee13a98ebd939fd81eac",
+            "size": 16910
+        },
+        "sound\\seals\\lightning.wav": {
+            "hash": "858c2488f80c1fda1687c058d01cd17a7076edafbe7d77f2461627420a0225d8",
+            "size": 59594
+        },
+        "sound\\seals\\nature.wav": {
+            "hash": "fa3a87d00245624d471f2b84a99539b14963d7c613c9f4be48d4984d1ace3187",
+            "size": 2726
+        },
+        "sound\\seals\\wind.wav": {
+            "hash": "1cb57dab85100068355f6ea1ecb1bf0b2f86ae714ef82033d15d3de68e6bcf54",
+            "size": 110592
+        },
+        "sound\\spells\\armorspell.wav": {
+            "hash": "7fea4cda8c69284ce2ba0f2554119591bdb1fe125b08ee13a98ebd939fd81eac",
+            "size": 16910
+        },
+        "sound\\spells\\beanstalk.wav": {
+            "hash": "27b7ac4ca53d7d6a5a489ff43d09efcffcdf8e0e484d152f12fa7607430548fc",
+            "size": 114688
+        },
+        "sound\\spells\\bearbite_hitbod1.wav": {
+            "hash": "ab7b4a9aa36aee65d5e86f5da791e7291eb2ba5fcbec4553215a194fa9c51cd9",
+            "size": 27454
+        },
+        "sound\\spells\\bearbite_hitbod2.wav": {
+            "hash": "98b490d96a8c167c4840a025539253567fc28b705fef5da2d9a6d65f54d508dc",
+            "size": 14152
+        },
+        "sound\\spells\\bearbite_hitbod3.wav": {
+            "hash": "2ea05266e4c76d3ff0bd21ceccffc56af2c035bcea9f433f4885cb00d843c2db",
+            "size": 15914
+        },
+        "sound\\spells\\bearbite_hitwall.wav": {
+            "hash": "34389f4bcb9eb2c4ca2a6a20a4e6d9126b9d0512fd7092522018d9532d79583e",
+            "size": 8526
+        },
+        "sound\\spells\\bearbite_miss.wav": {
+            "hash": "4c94101632fdd7898dc824ca4a583d0a7c937e5d60c8017f8f7c66e5aad0d263",
+            "size": 3572
+        },
+        "sound\\spells\\bolt_end.wav": {
+            "hash": "00f8e95d52e87d00f227b42dcf43136d029e0e74ca8a752d49bd7f4981c5221d",
+            "size": 27450
+        },
+        "sound\\spells\\bolt_loop.wav": {
+            "hash": "6c939ed1d01d180c5dbb8fd52e60db49170bb94eef1bfdea249090850421829a",
+            "size": 11084
+        },
+        "sound\\spells\\bolt_start.wav": {
+            "hash": "7d7ea908430029d4add2ab46a86c158eec9d8dac4524604c0bef029869d1a97c",
+            "size": 83642
+        },
+        "sound\\spells\\deathray_loop.wav": {
+            "hash": "fa9ec4dbb17c90631815a078d21242014e3846b8c21b94ef7154f20913039b01",
+            "size": 58778
+        },
+        "sound\\spells\\draco_explode.wav": {
+            "hash": "7a1d0fefe0e029bb757dd429878c42f012e5f0d16ed00c9da7eaa16834be6011",
+            "size": 110728
+        },
+        "sound\\spells\\dragonbreath_loop.wav": {
+            "hash": "732d86153e1f27e43c9560d5fc9fff1bee1c2d4e52f09a0d92ea2860eb9f22fa",
+            "size": 31428
+        },
+        "sound\\spells\\fireball_ambience.wav": {
+            "hash": "db1ea4a7b6b6e5c6e15b11f742aaa4bcbf9e323784edcfb27820064d94d2480b",
+            "size": 57106
+        },
+        "sound\\spells\\fireball_cast.wav": {
+            "hash": "a00cda70ae16c8248ab4c4dea90ffd771b1abe66a181cce249eebfda5e78bd27",
+            "size": 86016
+        },
+        "sound\\spells\\fissure_boom.wav": {
+            "hash": "2599c70f6e20eadf0c661254fd895b28a971cc8c88f8848ae8937fce8f5d335c",
+            "size": 56868
+        },
+        "sound\\spells\\fissure_cast.wav": {
+            "hash": "f0bef47f2e29d37ccd96a1879d7b8822e458e8707911db1ca1acee8a317b3f8a",
+            "size": 27838
+        },
+        "sound\\spells\\flamelick_cast.wav": {
+            "hash": "f43b55ef288798bf911a15ca16fd51256722dc69932c67d1536191aa37697301",
+            "size": 18956
+        },
+        "sound\\spells\\flamelick_hit.wav": {
+            "hash": "ecde027d1409d0c0d951bb1cbf4126fe6d3039dbe24adfb96f31228a87efc312",
+            "size": 59078
+        },
+        "sound\\spells\\flyingskull.wav": {
+            "hash": "1faa923e4c7bff2c9ea51ed85e9620fd52b7749ad3e0ef4edbe5e220d8c9f0d7",
+            "size": 118784
+        },
+        "sound\\spells\\forceblast_cast.wav": {
+            "hash": "4497865f93f2e91bc36a06eca9d5f6fc91cfda7f312b17a06bf42e6848478406",
+            "size": 22992
+        },
+        "sound\\spells\\freezeray_loop.wav": {
+            "hash": "a3119dc565ed64bd8f6d4a51a07911d8bf8619616a781def294f37ad88643f81",
+            "size": 38742
+        },
+        "sound\\spells\\healer_sacrifice.wav": {
+            "hash": "d0710500bc62ec7ca8b3b9ce0c4996952c493a4f013fe46a51c9f8488b491f46",
+            "size": 137352
+        },
+        "sound\\spells\\icepoke.wav": {
+            "hash": "cbe4e5e4f7514bb03ad0c3f9d75a7b01ed9cc0228037fb91cff1e9c9a15435db",
+            "size": 20300
+        },
+        "sound\\spells\\levitate.wav": {
+            "hash": "005616904ebfec049860ca33b790903e76c75615f3048dba17ce8d85cd6c65f5",
+            "size": 32212
+        },
+        "sound\\spells\\magicmissile.wav": {
+            "hash": "d63d1f53df86112372f9321073677b0fa5c3295bb9c7b326ffc63c95b1b6b410",
+            "size": 57076
+        },
+        "sound\\spells\\necro_grimfeast.wav": {
+            "hash": "6cfc79d489289266164ded279e16c7e6ad978aa87496d1a3a17b4c22c28ece51",
+            "size": 178824
+        },
+        "sound\\spells\\pebbleblast.wav": {
+            "hash": "52f4f955d738a6d32a236f81372835c9b132cce0afe685449e9753ac15423575",
+            "size": 6596
+        },
+        "sound\\spells\\seal_end.wav": {
+            "hash": "be8c0f730c739663975aa9ff32e01e587d75098480fc26e3b8c5b1dc8f48b184",
+            "size": 42938
+        },
+        "sound\\spells\\seal_loop.wav": {
+            "hash": "2800b1043edf99dc4e12832b8357fea2193c1d8fdeeab45120295243df31762e",
+            "size": 23556
+        },
+        "sound\\spells\\seal_start.wav": {
+            "hash": "6180461bd82dd5ca9098e76af98c149631e84378960e4ffdb1d7d06371793650",
+            "size": 42554
+        },
+        "sound\\spells\\staff_hitbod1.wav": {
+            "hash": "fcee49297f976e21bc5cea114737490a2a004cad9cd426ac3d8a6ac6b304e352",
+            "size": 18246
+        },
+        "sound\\spells\\staff_hitbod2.wav": {
+            "hash": "2bf234b696153a36b52c0b50dae60fa02dd1e3cb0348f6e298362e37890f1dd8",
+            "size": 21194
+        },
+        "sound\\spells\\staff_hitbod3.wav": {
+            "hash": "2453fa506fe2c3fdbe592c70f4477217f29225fc3a3883d41c4f216bdba57a57",
+            "size": 14476
+        },
+        "sound\\spells\\staff_miss1.wav": {
+            "hash": "4c94101632fdd7898dc824ca4a583d0a7c937e5d60c8017f8f7c66e5aad0d263",
+            "size": 3572
+        },
+        "sound\\spells\\stone_cast.wav": {
+            "hash": "12ef7c2a7d7c2633b6a4cf1136e290f0e43b56502c11d819106b25b86a172b48",
+            "size": 8908
+        },
+        "sound\\spells\\thornblast.wav": {
+            "hash": "52f4f955d738a6d32a236f81372835c9b132cce0afe685449e9753ac15423575",
+            "size": 6596
+        },
+        "sound\\spells\\updraft_cast.wav": {
+            "hash": "1aeb6da9c81d7058fa448469b74edf6f5cdb857b65055941420bc23e8beea4b7",
+            "size": 8808
+        },
+        "sound\\spells\\updraft_hit.wav": {
+            "hash": "1cb57dab85100068355f6ea1ecb1bf0b2f86ae714ef82033d15d3de68e6bcf54",
+            "size": 110592
+        },
+        "sound\\spells\\whiteray_loop.wav": {
+            "hash": "4283f1a683f5af0cb888bffb11a741eba72072e68daf320bb73e6aaee5bb0bd2",
+            "size": 34970
+        },
+        "sound\\spells\\combos\\ball_lightning.wav": {
+            "hash": "188dc2dc4b7e91fd1d5641f8cce38990ecf2bd0c3e410d39a7990901b0a6bb38",
+            "size": 59636
+        },
+        "sound\\spells\\combos\\comet_cast.wav": {
+            "hash": "4677a00afd0f175c2e870dd60cf11893daff645c79fc219da49d47beb7ba761f",
+            "size": 28006
+        },
+        "sound\\spells\\combos\\comet_hit.wav": {
+            "hash": "2599c70f6e20eadf0c661254fd895b28a971cc8c88f8848ae8937fce8f5d335c",
+            "size": 56868
+        },
+        "sound\\spells\\combos\\comet_miss.wav": {
+            "hash": "4c49961951584fc4b5b93740a33d835519ffdb07519b6e339a4c0b560f3a4f71",
+            "size": 5780
+        },
+        "sound\\spells\\combos\\giantplant_cast.wav": {
+            "hash": "21ddfeac53e9e777b4e914f1a41c898c6c49c7d33ad701093c3b4798d746ba25",
+            "size": 38844
+        },
+        "sound\\spells\\combos\\lightningcloud_cast.wav": {
+            "hash": "aa3ca7f67c13d3f52a76a80a7230acc4f1f2fb8444fc222f0ea2a79270d19b2e",
+            "size": 31716
+        },
+        "sound\\spells\\combos\\lightningcloud_zap.wav": {
+            "hash": "e957a0c0e545fb1c6a38dc3d4cdc5fcfd2d115f7f616f658a964e06dbf401940",
+            "size": 40130
+        },
+        "sound\\spells\\combos\\meteor_cast.wav": {
+            "hash": "4677a00afd0f175c2e870dd60cf11893daff645c79fc219da49d47beb7ba761f",
+            "size": 28006
+        },
+        "sound\\spells\\combos\\meteor_hit.wav": {
+            "hash": "2599c70f6e20eadf0c661254fd895b28a971cc8c88f8848ae8937fce8f5d335c",
+            "size": 56868
+        },
+        "sound\\spells\\combos\\meteor_miss.wav": {
+            "hash": "4c49961951584fc4b5b93740a33d835519ffdb07519b6e339a4c0b560f3a4f71",
+            "size": 5780
+        },
+        "sound\\spells\\combos\\raisedead_cast.wav": {
+            "hash": "fadee33a275ec493e8e9252ecfea50b586d2387d167086907f794e830966205b",
+            "size": 73734
+        },
+        "sound\\spells\\combos\\spritdragon_cast.wav": {
+            "hash": "6ef6758eb4d0017ce177db7de5c7ac0b005e416919acffc9363a1077adb11748",
+            "size": 15588
+        },
+        "sound\\spells\\combos\\spritwiz_cast.wav": {
+            "hash": "6ef6758eb4d0017ce177db7de5c7ac0b005e416919acffc9363a1077adb11748",
+            "size": 15588
+        },
+        "sound\\spells\\combos\\spritwiz_wail.wav": {
+            "hash": "52e782da24294fba03c516c88faa11806d5e268fc7850091565f3c4c98d73799",
+            "size": 76146
+        },
+        "sound\\spells\\combos\\tornado_cast.wav": {
+            "hash": "aa3ca7f67c13d3f52a76a80a7230acc4f1f2fb8444fc222f0ea2a79270d19b2e",
+            "size": 31716
+        },
+        "sound\\spells\\combos\\tornado_spin.wav": {
+            "hash": "fc030be959014a8df51d66faf0f7e3989d7fd803184aa9fd3b34a36da225cfbd",
+            "size": 353786
+        },
+        "sound\\UI\\buttonclick.wav": {
+            "hash": "7f186067ccbdcea5b0cf7c88e7c0f17262338f73127ba47c838c5137aada453f",
+            "size": 4704
+        },
+        "sound\\UI\\buttonclickrelease.wav": {
+            "hash": "7d7ea908430029d4add2ab46a86c158eec9d8dac4524604c0bef029869d1a97c",
+            "size": 83642
+        },
+        "sound\\UI\\buttonrollover.wav": {
+            "hash": "21a3d1b615038df5814574512f05d100908daa5158b0315c0bebd98e3cd9a124",
+            "size": 9523
+        },
+        "sound\\vox\\bloop.wav": {
+            "hash": "6d305b82b9585da9cacdfc4c70e0512f50a6081077d4022483657a17dffa8e1f",
+            "size": 6846
+        },
+        "sound\\vox\\captured.wav": {
+            "hash": "224d776f2c9b68b8b55d251c94a87d1baf7494cb0335c77157567c778d20bf90",
+            "size": 12184
+        },
+        "sound\\vox\\dadeda.wav": {
+            "hash": "d99c49d9c92334fb3bee2bb339726c307ffda914dd56e38f3e9c39bb3cb03538",
+            "size": 9918
+        },
+        "sound\\vox\\deeoo.wav": {
+            "hash": "a44362a66bc9469fa722ac28d5dee8c2cf988c9528500a06983ee7f1247c2762",
+            "size": 7656
+        },
+        "sound\\vox\\doop.wav": {
+            "hash": "676767b1006662e478f50a079957744581223d513a054453b6b23efcd0598463",
+            "size": 11193
+        },
+        "sound\\vox\\enemy.wav": {
+            "hash": "026a04d107a20f1fdb49153dc05ed25427e1af44f2bc68b3cd3de772200a5c9e",
+            "size": 5553
+        },
+        "sound\\vox\\flag.wav": {
+            "hash": "ca3d0a32395055122f04f9fdf9a8f1e3e7da949fec0696d170e930b18a58a64c",
+            "size": 10638
+        },
+        "sound\\vox\\reset.wav": {
+            "hash": "cf9402509dc3af3ad5c1fd71a03b523cb8f08b6366cca6488a2f680c67ca9d73",
+            "size": 8056
+        },
+        "sound\\vox\\returned.wav": {
+            "hash": "92c3eca20ae1a30893dde89889e0700bf3e26d27c8f8cffc2ad6ac04baf3a0d5",
+            "size": 11732
+        },
+        "sound\\vox\\scores.wav": {
+            "hash": "1e6f771ab821bf6bada2081170728e6ba4b7218e481005a170447dc394ccc1ae",
+            "size": 10802
+        },
+        "sound\\weapons\\scock1.wav": {
+            "hash": "8da1d6e4d17faf3a86930251e299a4947b96e4aecb69fa5d5882e3f8c4f21e3d",
+            "size": 15660
+        },
+        "sprites\\640hud11.spr": {
+            "hash": "05a3e5c11d3b8906010efbccc08ca2a6dc91b2e8e0dfda43e3ba4a2e714d6034",
+            "size": 66366
+        },
+        "sprites\\crosshairs.spr": {
+            "hash": "1ea6a4d6963380fdb1500f6c9f8faa6e23a94778d029073e0e88f39e459a468b",
+            "size": 17214
+        },
+        "sprites\\deathmsg.spr": {
+            "hash": "050861d34c2da2ac5a5c9a8019ca9df8075e5ee44b83b79a431794b0130d84a2",
+            "size": 66366
+        },
+        "sprites\\dragon.spr": {
+            "hash": "a92209fa357a7c36a5deca21a8d6ec666e3eb231909efbc4862400227064179b",
+            "size": 2878
+        },
+        "sprites\\fire.spr": {
+            "hash": "b35df319b60332b67e735da78f164d97fc136d5b7f4395df8ef66d282810694b",
+            "size": 19482
+        },
+        "sprites\\firestone.spr": {
+            "hash": "d2fc5a389ab29dba22d376e5dcddf96fab4eedc807bfcc73caf23372a3621c23",
+            "size": 72770
+        },
+        "sprites\\firestone2.spr": {
+            "hash": "d9b31ebd2a1585780a3ef1cde489bddfd1c3d74e2604a03dad6d6146a902ec20",
+            "size": 29762
+        },
+        "sprites\\firez.spr": {
+            "hash": "d8be8ef6073854d8108469b3d4c4e63889fb4364269d2edd388ab534ccb27a0d",
+            "size": 47190
+        },
+        "sprites\\grayfire.spr": {
+            "hash": "6a2fa409a97d6d2739cdc54145ea98e23d62a26e7bd8d653963493771d374113",
+            "size": 29762
+        },
+        "sprites\\hud.txt": {
+            "hash": "3323e29cd5ab6b6cec4b28ecf58e61cc0652ad0540347beaa2e7011c4f5f6f79",
+            "size": 3335
+        },
+        "sprites\\hud1.spr": {
+            "hash": "d0387c9b04ebbe086134dab8c9abbf6c300f5f0e5a56ff5f38b250a05176607c",
+            "size": 33598
+        },
+        "sprites\\hud2.spr": {
+            "hash": "7318facb39310d1fede02015f8549afa4b948549615434f9190fd9ccce03df3c",
+            "size": 66366
+        },
+        "sprites\\hud_archmage.spr": {
+            "hash": "7515ab2b659ac159c9a40d5361916265d736291dcf8fd9d863a807ac6daf2d17",
+            "size": 41662
+        },
+        "sprites\\hud_death.spr": {
+            "hash": "56cc6559c58f36cfd2efd9f33973455822702bd46a57c216ff49caa5cad8ed9f",
+            "size": 41662
+        },
+        "sprites\\hud_dragon.spr": {
+            "hash": "c8f95bf601ca97cfb18f93ba6595f37ff06f7518b4e02616ddd6bb92c477ab09",
+            "size": 41662
+        },
+        "sprites\\hud_earth.spr": {
+            "hash": "9d6d690481688f42f896cb53a697f91d61c88a80a5753c1ec9f2c499daccf501",
+            "size": 41662
+        },
+        "sprites\\hud_fire.spr": {
+            "hash": "46a13fb94b466d434cf93a4d4c6500d1f65e31942ad1c89f96e8df92c6dd7528",
+            "size": 41662
+        },
+        "sprites\\hud_ice.spr": {
+            "hash": "b72684a51e1b11f3bdfa5f1f3b92e18059257c862971f5dd20eb00316aeefa40",
+            "size": 41662
+        },
+        "sprites\\hud_life.spr": {
+            "hash": "f84ea0ca94e76d3f2f060a58bb656f1694d0f355a0e8b1a0f54c4f6258a300c9",
+            "size": 41662
+        },
+        "sprites\\hud_lightning.spr": {
+            "hash": "3edabb0e096ad8d62be59d59fdaeb6144afd346a9b23e58d642eec292a4c4382",
+            "size": 41662
+        },
+        "sprites\\hud_nature.spr": {
+            "hash": "61f7d0a2c3fc46172c5c88db8bfe4f12eafa113506b3ab280c93effcd1c5894e",
+            "size": 41662
+        },
+        "sprites\\hud_wind.spr": {
+            "hash": "0c3210063181e315e2523e471a44f62c380bb89326abc365c055783eaea780f7",
+            "size": 41662
+        },
+        "sprites\\poison.spr": {
+            "hash": "5a3df03849babcf7cb0eee2f94d9981f32709c096c2515597ab7f9ef78dfaec7",
+            "size": 54318
+        },
+        "sprites\\status1.spr": {
+            "hash": "8ca24a9480f76e3a72f3aaf5fe9d02bae894c860ee89925b9fc35b4b28232e52",
+            "size": 17214
+        },
+        "sprites\\status2.spr": {
+            "hash": "57e0d32059ccb8aa2bd037ea0697befd12345a0a1d65e764788e4b6339983c1e",
+            "size": 17214
+        },
+        "sprites\\status3.spr": {
+            "hash": "39221afa53c5c0157e3dd348de470bf0c4d5ff3a153c86225f2858ad58d6c5dc",
+            "size": 66366
+        },
+        "sprites\\effects\\armorspell.spr": {
+            "hash": "acd01937b733015cd8ea9ee07a8c8cf6a3e4e3e709fade5222af62e1ccf035dd",
+            "size": 1854
+        },
+        "sprites\\effects\\updraft.spr": {
+            "hash": "934b837a6ea45d2bab6bd6a7c362aea3b65b4b09a2466602f1ca7515d7d4efbe",
+            "size": 99234
+        },
+        "sprites\\icons\\arrow.spr": {
+            "hash": "6278b4636c0cbde2f563ae4acde308939c78cdd89439be7eac161b2f82892fcd",
+            "size": 2898
+        },
+        "sprites\\icons\\yuck.spr": {
+            "hash": "e607e61e3c54710e921e7a8e94f65b4e072f6f3350f9b74b05e2e2dc56617b81",
+            "size": 2898
+        },
+        "sprites\\weapons\\weapon_combospell.txt": {
+            "hash": "aef3acba2767f0a76b859bd187de7caed2ea67b1334d8566f7e2415713321849",
+            "size": 131
+        },
+        "sprites\\weapons\\ww_bearbite.txt": {
+            "hash": "42106e78b4a218fed5a40ecbcc33e94818cee79e15066d9a5d3e2b0b087c1dc8",
+            "size": 133
+        },
+        "sprites\\weapons\\ww_spell_beanstalk.txt": {
+            "hash": "63036cf4d0499763d5b13e76551bb065fa179e8d38019c27007f3dae18f66f4d",
+            "size": 141
+        },
+        "sprites\\weapons\\ww_spell_bird.txt": {
+            "hash": "22e6ad5d4a4c72c058169a5e95eb609cc6a037ee805c0f52763db96bf530ba0d",
+            "size": 177
+        },
+        "sprites\\weapons\\ww_spell_deathray.txt": {
+            "hash": "9312c0fd5446dbba309a83171d0518662a0fb59e5319eae00f9ddebe2bb4ebb5",
+            "size": 177
+        },
+        "sprites\\weapons\\ww_spell_doublemissile.txt": {
+            "hash": "83792dae3f7f89d8791bc4061fe929c5f65ba810ec5e177c843769f5e6172ec8",
+            "size": 165
+        },
+        "sprites\\weapons\\ww_spell_dragonbreath.txt": {
+            "hash": "c028944e316bb4568a757b19b7c095579d7c592eae4856eec8a5085a8780da9d",
+            "size": 179
+        },
+        "sprites\\weapons\\ww_spell_fireball.txt": {
+            "hash": "4b8a8b06e60935a845fe9c32520cb1dcc81c916a1c4b97ed8a60bf1fa28a70f1",
+            "size": 175
+        },
+        "sprites\\weapons\\ww_spell_flamelick.txt": {
+            "hash": "2526c9c25e9b45e5bbc63d168e03e4b57cce0d64dcf6c406281d1284f4360277",
+            "size": 175
+        },
+        "sprites\\weapons\\ww_spell_forceblast.txt": {
+            "hash": "5ec230fb5da8e4e11258b5fc821205a2549b1f1944670cdfe64b4e3ea54feb68",
+            "size": 175
+        },
+        "sprites\\weapons\\ww_spell_freezeray.txt": {
+            "hash": "f75c4cfcd822ecc98eb17a5ecc6baba11ada31df6619e7af3b88eda18d4e0483",
+            "size": 175
+        },
+        "sprites\\weapons\\ww_spell_iceshard.txt": {
+            "hash": "33fda34eeb065b1b924fdb101476f8c791e16b482709b9e2932ddce560e2e17b",
+            "size": 175
+        },
+        "sprites\\weapons\\ww_spell_levitate.txt": {
+            "hash": "f1e9641a92a6365c5ece68ffbb9f1ea26fc0d043d39bcc0c4a9cf411d01c5314",
+            "size": 137
+        },
+        "sprites\\weapons\\ww_spell_lightningbolt.txt": {
+            "hash": "d279959317fc804e9372d622b59103c49a5382fe893bbe81ae0bab48aa662f17",
+            "size": 186
+        },
+        "sprites\\weapons\\ww_spell_missile.txt": {
+            "hash": "4f7fd588d023249f4eb629248d7c956454341f39ea227f1be99213d5bcd3efa0",
+            "size": 167
+        },
+        "sprites\\weapons\\ww_spell_pebbleblast.txt": {
+            "hash": "1c3e4e471ee49d0d0745b337b164d97cd81a1e0d6ed6464bf09352b72df65e59",
+            "size": 177
+        },
+        "sprites\\weapons\\ww_spell_seal.txt": {
+            "hash": "9e637109299d0bf33e3006a5b165003cb172b66b9389dc02328b732fca565c00",
+            "size": 129
+        },
+        "sprites\\weapons\\ww_spell_shield.txt": {
+            "hash": "2e7b227f95d9ad47705c6e9b9ec26926743b2979c21a9d1bf794d6e9da42e5fd",
+            "size": 165
+        },
+        "sprites\\weapons\\ww_spell_skull.txt": {
+            "hash": "ff9488e0713291057b25ad51ce2c9b9dbe578da3150318c83c2a84311c34d026",
+            "size": 177
+        },
+        "sprites\\weapons\\ww_spell_spotbolt.txt": {
+            "hash": "a4fa97c52900ff16fd3274bac1afa67a590258535bca04b948bd968f79ff70e7",
+            "size": 149
+        },
+        "sprites\\weapons\\ww_spell_stone.txt": {
+            "hash": "a02834b244d1b90453117e021aaa39cb94912e9cb607305dcc9a2fef477e55e2",
+            "size": 175
+        },
+        "sprites\\weapons\\ww_spell_thornblast.txt": {
+            "hash": "6f2d0b519d73bad273c5f7f07648a6e9cd8d9ca50f0a6c0a413f53c5dafeea30",
+            "size": 179
+        },
+        "sprites\\weapons\\ww_spell_updraft.txt": {
+            "hash": "2bdeb6c16572db36dab525e1ef4ceef9c678cf3bc7e3c4eaea9ce7cb09893e02",
+            "size": 175
+        },
+        "sprites\\weapons\\ww_spell_whiteray.txt": {
+            "hash": "83844ea5ebc6adb4bc51ec88845c4e4dfa55b4596db8bee5a832c4f2d8b3e462",
+            "size": 175
+        },
+        "sprites\\weapons\\ww_spell_wyvern.txt": {
+            "hash": "be2b70c62b18d24eb90921fdfcf5f246907f1789a24e117a183362f9ca4029a0",
+            "size": 179
+        },
+        "sprites\\weapons\\ww_staff.txt": {
+            "hash": "0752c934f74a914284a7258416c10c3ae34cb74b18c91efd114128c3bb83bc27",
+            "size": 125
+        },
+        "sprites\\weather\\rain1.spr": {
+            "hash": "299f911509331eee8d1e734385388f9fcdfaab5cc6c9243ac2a947bd3ae6d47d",
+            "size": 1214
+        },
+        "sprites\\weather\\rain2.spr": {
+            "hash": "5169c9dfdb69a773434acf17053ae61debba0869d08511f1248072a07e6bc256",
+            "size": 1214
+        }
+    },
+    "timestamp": 1721694548,
+    "name": "Wizard Wars",
+    "type": "goldsrc",
+    "dir": "wizardwars_beta",
+    "version": "1.3.0 beta"
+}

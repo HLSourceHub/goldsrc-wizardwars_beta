@@ -1,0 +1,12 @@
+Copyright (C) 2000-2008 Wizard Wars Team.
+
+  This software is provided 'as-is', without any express or implied warranty.  In no event will the authors be held liable for any damages arising from the use of this software. This is a beta release and thus may contain faults that make it unuseable or dangerous.
+
+  Permission is granted to anyone to redistribute it freely, subject to the following restrictions:
+
+  1. The origin of this software must not be misrepresented.
+  2. You may not modify this executable or any files associated with it without permission from the WizardWars Team.
+  3. This notice may not be removed or altered.
+
+  http://www.wizardwars.org
+

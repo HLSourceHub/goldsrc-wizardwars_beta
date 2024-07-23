@@ -1,0 +1,161 @@
+1.3.0 beta
+	*BETA SOFTWARE - USE AT YOUR OWN RISK*
+	New team - new website - new information - it's all been updated.
+	Working DLLs packed in.
+	Server browser fixed
+	Updated bot chat files
+	Updated bot name files
+
+1.2.9
+	Modified Bot to kick bots above max_num when max_num > 0.
+	Modified Bot to kick all bots when max_num == -1.
+	Modified bot to work in any dir named wizardwars.*
+	Added Decals.wad to distro
+	Returned all player models to 1.2.7 versions
+	Updated server & listen cfg files.
+	Sounds for combos fixed
+	Missing Goblin & Villager wav files added
+	Cfg files converted from Unix to Dos
+	TFC wads added to distro
+	Combo fire rate reduced to one shot per combo
+	Wombat invulnerability fixed
+	Skeletons attack
+	Skeleton origin fixed - new model
+	Added combos to titles.txt
+	Changed Combo Glow to red
+	Giant Plant awards kills to caster
+	Nether Spirit faces same way as caster
+	Combo Hud icon fixed
+	info_dragonrider_spawn fixed
+	Dragon flying fix
+	Dragon Breath Crash fixed
+	set mp_allowmonsters to allow dragon, sheep, skeleton, goblin, villager in map, defaulted to 1 in both server cfgs
+	Modified bots to never join Archmage Team
+	Ray spells beam and sound continue after you run out of Mana Fixed
+	Dragon Message added
+	ww_monstermaker fixed
+	Combo Chaos readded, mp_combochaos set to 0 in both server and listenserver cfg's
+	Bots modified to use combos
+	Added poison infection code to Death Mage Satchel, Life Mage satchel and Sacrafice cure this.
+	Modified Bots to use Satchels
+	Thorn Plants assign kills properly
+	Crash bug affecting many weapons fixed.
+	Fixed Code that allowed having multiple active Spirit Of dragons
+	Added Dragon, Goblin, Villager, Skeleton and info_dragonrider_spawn to FGD
+	
+	Included ww_skytower2h and ww_matrox to allow testing of dragon entities.
+
+1.2.8
+	Removed rcon password
+	Stopped bots from auto joining servers, modify HPB_bot.cfg to get them to join
+	Removed delay from Tempest satchel that was preventing them from being primed
+	Fixed WWFlameLickSpell to attribute kills to player and to obey friendly fire.
+
+	Readded old code:
+		Combos
+		Dragons
+		Goblins
+		Villagers
+		Sheep
+		Skeleton
+	
+	Added Impulse commands to allow monsters to be added for testing
+		impulse 210 = Goblin
+		impulse 211 = Dragon
+		impulse 212 = Sheep
+		impulse 213 = Villager
+		impulse 214 = Skeleton
+
+1.2.7
+	Fixed Bots getting stuck in observer mode
+	Fixed players spawning inside each other
+	Fixed Dracomances Dragon Breath originating at hip in thirdperson view
+
+1.2.6
+	Modified Fissue to have an 8 second pause between firing to prevent spamming
+	Modified PID for Thornbush to include it's number
+	Attempted to fix SZ_GetSpave error by making bots wait for 3 seconds after a player leaves before attempting to join
+	Fixed Team 4 never being selected in Auto Team
+	Fixed Bots not attacking Thornplants in DM
+	Fixed Thornbush not making noise when first spawned
+	Fixed Burrs not always self destructing
+	Fixed Bots not joining team with least players
+	Fixed Thornplants dieing crashing server
+
+1.2.5
+	Fixed Server Crashes when Breakables are removed
+	Fixed Bot shooting allies
+	Fixed Bot shooting own TPs & bean stalks
+	Fixed Shields not obeying class minimum & maximum
+	Fixed Bot to work in DM correctly
+	Fixed Satchels spawning inside things if you stood real close when throwing them
+	Fixed Bots shooting at invisible players
+	Fixed Bots shooting at disguised players
+	Fixed Bots not using lightning well
+
+1.2.4
+	Added HPB Bot
+	Added MetaMod from http://metamod-p.sourceforge.net
+	Ported Mod, and HPB Bot to Linux
+	Fixed Sounds Looping for: Fireball, Skull & Wyvern
+	Prevent Radius Weapons from hurting friendly players if friedly fire is disabled ... weenies.
+
+1.2.3
+	Fix borked installer :(
+
+1.2.2
+	Changed tf_debug code to Log instead of just print to console.
+	Included changes by Kukyona to fix spawn collision and hang on join bugs.
+	Modified wyrven to be more mobile.
+	Removed explode option from Dragoneer's menu.
+	Reduced Cleric Sacrifice fuse time to 4. Introduced delay of 5 secs between Sacrifices. i.e. minimum 9 secs between boom 1 and boom 2
+
+1.2.1
+	Moved SETMODEL in satchels to precache so they get set before spawn sets the model sequence.
+
+	Lowered fissure area of effect from 512 to 206
+
+	Thorn Plants
+		Reduced initial growth time by 50%
+
+		Raised health by 50%
+			LVL 1 was 200 now 250
+			LVL 2 was 250 now 400
+			LVL 3 was 300 now 550
+
+			(Fireball damage = 100, wind satchel damage = 150.0)
+
+		Lowered cost to fertilize
+			LVL1 to LVL2 was 150 now 80
+			LVL2 to LVL3 was 190 now 120
+
+		Sinking in to the ground some times:
+			Changed movetype to MOVETYPE_STEP was MOVETYPE_TOSS,
+			Tested as Red Team in ww_keep putting TP in rafters in Red Grail room
+
+		Made it so wind wizard satchels do not affect TPs
+
+	Lowered Cleric satchel heal/damage from 220 to 80
+
+	Drop Grail when client disconnected
+
+	Cleric Sacrifice:
+		reuse delay from 4 to 10 seconds
+		Changed damage from halving current health/armor to 200
+		Lowered heal from 300 per team mate to 100
+
+	Modified levitate to allow Ice Mage to slow Aero down by freezing him
+
+	Wizard O Death
+		Doubled Death Ray damage from 10 to 20
+		Increased Skull damage from 35 to 45
+		Increased Skull radius from 64 to 96
+
+	Wizard O Dragons
+		Edit1 Dragon Breath damage from 10 to 20
+		Increased Dragon Breath range from 200 to 300
+		Increased Wyvern damage from 35 to 45
+		Increased Wyvern radius from 64 to 96
+		Increased Wyvern life from 2 to 4 seconds
+		Increased Wyvern hunt life from 3 to 6 seconds
+		Increased Wyvern speed from 400 to 600

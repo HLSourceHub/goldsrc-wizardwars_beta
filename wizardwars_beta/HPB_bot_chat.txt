@@ -1,0 +1,45 @@
+Each bot chat section can have up to 100 lines of text.  Each line is treated as a separate chat message. Lines must be 80 characters or less.  Lines longer than 80 characters will
+be truncated. The messages in the [bot_chat] section are said randomly
+during the game. You can use "%n" in the [bot_chat] section if you
+wish to fill in the name of the bot speaking that message.  You can use
+"%n" in the [bot_taunt] section to fill in the name of the player that
+was killed.  You can use "%n" in the [bot_whine] section to fill in the
+name of the player that killed this bot.  You can use "%r" in any of these sections if you want to fill in a random player name (player names are chosen from those currently connected to the server, not from the
+bot_names.txt file).  You can use "%n" or "%r" multiple times in a single chat message if you want.
+
+If you have a chat message that you don't want to have any characters
+dropped or swapped in (like sending a message with a URL), you can use
+a '!' character as the first character in the chat message to indicate
+that this chat message should not be modified (no drops, swaps, or changing to lowercase).  The '!' will be removed from the chat message before it gets send to other players.
+
+[bot_chat]
+Hey, %r, come over here and get a bear hug.
+I think I'll just camp here and wait for some llamas to come by.
+Hey %r! How's it going!
+Combos are coming back!
+Go Wizard Wars! Way better then Team Fortress and Counter-Strike put together!
+Should c-jumping be legal or not?
+We want dragons!
+
+[bot_taunt]
+What a waste of mana.
+%n, do you have any spells that actually hurt?
+%n, the Archmage does more damage than you do!
+Why don't people read the manual before trying to fight me?
+%n, come near me again and I'll turn you into dragon food.
+%n, you dare to think you can defeat my spells?
+So easy! Go Sylv, your plant might be a worthwhile opponent...
+Are these bots on maximum?
+
+[bot_whine]
+Argh, stop freezing me.
+You only won because I dropped my staff...
+Stop hiding behind your plant!
+Who put that seal there?
+That spell is far too overpowered.
+Was that fissure whoring that killed me or just spamming?
+If only I had permanent invulnerability...
+Leave me alone, %n, or I'll change class and make you sorry.
+Where's the grail? Can I have it? Can I? Can I? PLEASE?
+Why don't you just stand still and die, %n?
+Just wait until I have a combo. You're gonna eat it.

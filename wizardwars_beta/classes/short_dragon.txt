@@ -1,0 +1,20 @@
+STATS
+Max Health: 100
+Max Armor: 135
+Max Speed: Low - Medium 
+
+SPELLS
+Dragon Staff, Dual Mana Bolt, Armor Spell, Dragon Breath, Beckon Drake
+
+SATCHEL
+Dragon Skull – Spinning skull does 150-750 damage to enemies in range.
+
+SPECIAL ABILITY
+None 
+
+MAGIC SEAL 
+Gives allies protective armor for 30 seconds 
+Does 75 fire damage enemies
+
+COMBOS
+Raise Dead (with Necromancer), Spirit of the Dragon (with Zephyrist).

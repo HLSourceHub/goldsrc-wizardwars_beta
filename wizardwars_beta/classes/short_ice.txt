@@ -1,0 +1,24 @@
+STATS
+Max Health: 90
+Max Armor: 90
+Max Speed: Medium - High 
+
+SPELLS
+Crystal Staff, Mana Bolt, Armor Spell, Ice Shard, Freeze Ray 
+
+SATCHEL
+Frozen Satchel - Freezes an enemy for 5 seconds   
+
+SPECIAL ABILITIES
+Can go invisible for 20 mana. 
+Invisibility requires 2 mana every 0.5 seconds to maintain, if moving. 
+Can disguise as last seen enemy for 20 mana. 
+Disguise is lost if player attacks.
+
+MAGIC SEAL 
+Gives allies invisibility for 30 seconds, or until they attack
+Adds 10 seconds of frost to enemies, does 20 freeze damage 
+
+COMBOS
+Giant Plant (with Sylvanist), Lightning Cloud (with Voltamancer).
+

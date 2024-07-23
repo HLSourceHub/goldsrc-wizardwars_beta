@@ -1,0 +1,24 @@
+STATS
+Max Health: 75
+Max Armor: 80 Medium Armor
+Max Speed: High
+
+SPELLS
+Staff of Healing, Dual Mana Bolt, Armor Spell, Repel, Life Ray
+
+SATCHEL
+Heal-hurt satchel - Does 110 damage to enemies and heals 110 health of allies (including poison).
+
+SPECIAL ABILITIES
+Heals self of 4 damage and cures status ailments every 5 seconds.
+Sacrifice self to do 200 damage and blind enemies in 250u radius. 
+Sacrifice self to heal 100 damage to allies in 250u radius. 
+Sacrifice player recieves 1 frag for every ally cured of poison. 
+Sacrifice is delayed by 4 seconds. 
+
+MAGIC SEAL 
+Heals 20 damage and cures all ailments for allies 
+Does 10 damage and blinds enemies. 
+
+COMBOS
+Spirit Wizard (with Sylvanist), Wally the Wombat (with Geomancer).
