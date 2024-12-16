@@ -1,0 +1,1 @@
+hl.exe -game wizardwars_beta -num_edicts 2048 -console
